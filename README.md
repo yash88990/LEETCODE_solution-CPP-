@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -18,6 +19,7 @@
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 # Sorting
@@ -32,3 +34,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
