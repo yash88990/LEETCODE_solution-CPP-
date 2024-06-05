@@ -23,6 +23,7 @@
 | [0072-edit-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 # Matrix
 |  |
 | ------- |
@@ -99,7 +101,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 # Backtracking
 |  |
 | ------- |
 | [0077-combinations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0077-combinations) |
+# Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
