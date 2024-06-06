@@ -42,12 +42,14 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 # Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sliding Window
 |  |
@@ -85,6 +88,7 @@
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0205-isomorphic-strings) |
+| [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 # Math
 |  |
 | ------- |
