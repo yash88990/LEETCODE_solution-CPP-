@@ -120,3 +120,19 @@
 | [0002-add-two-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0021-merge-two-sorted-lists) |
+# Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
