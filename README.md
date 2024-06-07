@@ -27,6 +27,7 @@
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -42,6 +43,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 # Sorting
@@ -137,11 +139,13 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 # Binary Tree
 |  |
 | ------- |
@@ -151,3 +155,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
+# Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
+# Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
