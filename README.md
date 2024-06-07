@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0057-insert-interval) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0077-combinations) |
 # Recursion
 |  |
