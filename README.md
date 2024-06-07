@@ -30,6 +30,7 @@
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
+| [0648-replace-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0648-replace-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -48,6 +49,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0648-replace-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 # Sorting
 |  |
@@ -96,6 +98,7 @@
 | [0202-happy-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 # Math
 |  |
@@ -179,3 +182,4 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0648-replace-words) |
