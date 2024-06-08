@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
@@ -66,6 +67,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
