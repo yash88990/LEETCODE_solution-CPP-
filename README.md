@@ -44,6 +44,7 @@
 | [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 # Binary Search
@@ -201,3 +203,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0648-replace-words) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
