@@ -47,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
@@ -135,6 +136,7 @@
 | [0002-add-two-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0523-continuous-subarray-sum) |
