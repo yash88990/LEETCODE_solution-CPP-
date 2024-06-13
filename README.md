@@ -26,6 +26,7 @@
 | [0072-edit-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
@@ -56,6 +57,7 @@
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +93,7 @@
 | [0064-minimum-path-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 # Binary Search
 |  |
@@ -132,6 +135,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0208-implement-trie-prefix-tree) |
@@ -230,6 +234,7 @@
 # Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0648-replace-words) |
 # Divide and Conquer
@@ -256,3 +261,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1217-relative-sort-array) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0139-word-break) |
