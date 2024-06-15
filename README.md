@@ -66,6 +66,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
@@ -81,6 +82,7 @@
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1137-height-checker) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0502-ipo) |
 # Quickselect
 |  |
 | ------- |
