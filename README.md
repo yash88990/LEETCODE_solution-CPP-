@@ -64,6 +64,7 @@
 | [0200-number-of-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0330-patching-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0502-ipo) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
