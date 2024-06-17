@@ -12,6 +12,7 @@
 | [0202-happy-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -111,6 +112,7 @@
 | [0162-find-peak-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0633-sum-of-square-numbers) |
 # Greedy
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0202-happy-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0633-sum-of-square-numbers) |
 # Matrix
 |  |
 | ------- |
