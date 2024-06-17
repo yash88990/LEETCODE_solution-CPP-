@@ -205,11 +205,13 @@
 # Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -223,6 +225,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 # Union Find
@@ -278,3 +281,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0139-word-break) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0099-recover-binary-search-tree) |
