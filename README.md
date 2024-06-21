@@ -77,6 +77,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1675-magnetic-force-between-two-balls) |
@@ -137,6 +138,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
+| [1138-grumpy-bookstore-owner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1138-grumpy-bookstore-owner) |
 # Prefix Sum
 |  |
 | ------- |
