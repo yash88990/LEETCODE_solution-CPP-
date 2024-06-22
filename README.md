@@ -79,6 +79,7 @@
 | [1137-height-checker](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -139,6 +140,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0209-minimum-size-subarray-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1370-count-number-of-nice-subarrays) |
 # Matrix
 |  |
 | ------- |
