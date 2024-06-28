@@ -98,6 +98,7 @@
 | [1217-relative-sort-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2379-maximum-total-importance-of-roads) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0876-hand-of-straights](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sliding Window
 |  |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
+| [2379-maximum-total-importance-of-roads](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2379-maximum-total-importance-of-roads) |
 # Shortest Path
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2379-maximum-total-importance-of-roads) |
 # Quickselect
 |  |
 | ------- |
