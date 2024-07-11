@@ -13,11 +13,11 @@ public:
             } else if (s[i] == ')') {
                 int start = stack.top();
                 stack.pop();
-                std::reverse(s.begin() + start + 1, s.begin() + i);
+                reverse(s.begin() + start + 1, s.begin() + i);
             }
         }
         
-        std::string result;
+        string result;
         for (char c : s) {
             if (c != '(' && c != ')') {
                 result += c;
