@@ -327,6 +327,7 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -387,4 +388,8 @@
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
