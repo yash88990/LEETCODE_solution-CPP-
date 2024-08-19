@@ -362,6 +362,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -461,6 +462,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2067-maximum-number-of-points-with-cost) |
