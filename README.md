@@ -342,6 +342,7 @@
 | [0040-combination-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0040-combination-sum-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
@@ -388,6 +389,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0001-two-sum) |
+| [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
