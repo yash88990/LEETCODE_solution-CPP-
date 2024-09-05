@@ -361,6 +361,7 @@
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
@@ -376,6 +377,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 ## String
 |  |
