@@ -364,6 +364,7 @@
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -401,6 +403,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 ## String
 |  |
@@ -467,6 +470,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
