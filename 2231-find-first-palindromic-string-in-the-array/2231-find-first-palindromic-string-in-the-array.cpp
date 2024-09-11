@@ -13,11 +13,13 @@ public:
     }
     
     string firstPalindrome(vector<string>& words) {
-        for (const string& word : words) {
-            if (isPalindrome(word)) {
-                return word;
-            }
-        }
+        for (int i = 0; i < words.size(); i++) {
+    string word = words[i];
+    if (isPalindrome(word)) {
+        return word;
+    }
+}
+
         return "";
     }
 };
