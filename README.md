@@ -413,6 +413,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
@@ -529,6 +530,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
