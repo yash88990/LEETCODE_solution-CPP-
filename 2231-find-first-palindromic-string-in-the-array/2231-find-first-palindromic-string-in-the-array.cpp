@@ -1,25 +1,24 @@
 class Solution {
 public:
-    bool isPalindrome(string s) {
-        int left = 0, right = s.size() - 1;
-        while (left < right) {
-            if (s[left] != s[right]) {
-                return false;
-            }
-            left++;
-            right--;
+bool ispalindromic(string s ){
+    int left = 0 ; 
+    int right = s.size() - 1 ;
+    while( left < right ){
+        if(s[left] != s[right]){
+            return false ;
         }
-        return true;
+        left++;
+        right--;
     }
-    
-    string firstPalindrome(vector<string>& words) {
-        for (int i = 0; i < words.size(); i++) {
-    string word = words[i];
-    if (isPalindrome(word)) {
-        return word;
-    }
+    return true;
 }
-
+    string firstPalindrome(vector<string>& words) {
+        for(int i = 0 ; i < words.size() ; i++ ){
+            string word = words[i];
+            if(ispalindromic(word)) {
+                return word;
+            }
+        }
         return "";
     }
 };
