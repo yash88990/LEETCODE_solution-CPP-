@@ -380,6 +380,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0009-palindrome-number) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
