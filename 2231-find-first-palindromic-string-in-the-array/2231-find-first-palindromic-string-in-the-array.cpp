@@ -14,9 +14,9 @@ bool ispalindromic(string s ){
 }
     string firstPalindrome(vector<string>& words) {
         for(int i = 0 ; i < words.size() ; i++ ){
-            string word = words[i];
-            if(ispalindromic(word)) {
-                return word;
+            string s = words[i];
+            if(ispalindromic(s)) {
+                return s;
             }
         }
         return "";
