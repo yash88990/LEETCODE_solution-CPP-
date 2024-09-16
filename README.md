@@ -338,6 +338,7 @@
 | [0001-two-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
@@ -554,6 +555,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
