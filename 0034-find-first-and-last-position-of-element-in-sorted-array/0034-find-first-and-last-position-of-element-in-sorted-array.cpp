@@ -1,25 +1,43 @@
 class Solution {
+int  firstocc(vector<int>& nums, int target){
+        int s = 0 , e = nums.size() - 1 ;
+        int ans = -1 ;
+        while ( s <= e ){
+            int m = s + ( e - s ) / 2 ;
+            if(nums[m] == target ){
+                ans = m ;
+                e = m - 1 ;
+            }else if ( nums[m] > target ){
+                e = m - 1 ;
+            }else{
+                s = m + 1 ;
+            }
+            m = s + ( e - s ) / 2 ;
+        }
+        return ans ;
+    }
+int  lastocc(vector<int>& nums, int target){
+        int s = 0 , e = nums.size() - 1 ;
+        int ans = -1 ;
+        while ( s <= e ){
+            int m = s + ( e - s ) / 2 ;
+            if(nums[m] == target ){
+                ans = m ;
+                s  = m + 1 ;
+            }else if ( nums[m] > target ){
+                e = m - 1 ;
+            }else{
+                s = m + 1 ;
+            }
+            m = s + ( e - s ) / 2 ;
+        }
+        return ans ;
+    }
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int n = nums.size() ;
-        int start = -1 ; 
-        int end = -1 ;
-        for(int i = 0 ; i < n ; i++ ){
-            if ( nums[i] == target ){
-                start = i ;
-                break ;
-            }
-        }
-        if ( start == -1 ) return {-1,-1};
-        for(int i = start ; i < n ; i++ ){
-            if ( nums[i] != target ){
-                end = i -1 ;
-                break ;
-            }
-        }
-        if ( end == -1 ) end = n-1 ;
-    
-        return { start , end } ;
-        
+        vector<int> p(2);
+        p[0] = firstocc(nums, target);
+        p[1] = lastocc(nums, target);
+        return p;
     }
 };
