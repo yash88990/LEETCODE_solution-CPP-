@@ -387,6 +387,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
@@ -562,6 +563,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
