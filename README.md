@@ -365,6 +365,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -476,6 +477,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -603,6 +605,7 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
