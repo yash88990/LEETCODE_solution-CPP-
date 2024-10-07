@@ -425,6 +425,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 ## String
 |  |
@@ -441,6 +442,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -450,6 +452,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
