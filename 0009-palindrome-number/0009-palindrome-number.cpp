@@ -1,21 +1,21 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        // Negative numbers are not palindrome
-        if (x < 0 || (x % 10 == 0 && x != 0)) {
-            return false;
-        }
-        
-        int reversedHalf = 0;
-        // Reverse half of the number
-        while (x > reversedHalf) {
-            reversedHalf = reversedHalf * 10 + x % 10;
+        // If the number is negative, it's not a palindrome
+        if (x < 0) return false;
+
+        // Store the original value of x
+        int original = x;
+        long newx = 0; // Use long to handle overflow
+
+        // Reverse the digits of the number
+        while (x != 0) {
+            int digit = x % 10;
+            newx = newx * 10 + digit;
             x /= 10;
         }
-        
-        // Compare the first half with the reversed second half
-        // For even number of digits: reversedHalf == x
-        // For odd number of digits: reversedHalf / 10 == x (since middle digit doesn't matter)
-        return x == reversedHalf || x == reversedHalf / 10;
+
+        // Check if the reversed number is equal to the original number
+        return newx == original;
     }
 };
