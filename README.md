@@ -365,6 +365,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
@@ -451,6 +452,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -568,6 +570,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Union Find
@@ -594,6 +597,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Data Stream
 |  |
@@ -631,4 +635,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
