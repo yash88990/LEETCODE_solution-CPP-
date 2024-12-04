@@ -460,6 +460,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -600,6 +601,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Union Find
 |  |
 | ------- |
