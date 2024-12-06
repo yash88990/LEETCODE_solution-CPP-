@@ -389,6 +389,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -484,6 +485,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -493,6 +495,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -507,6 +510,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -632,6 +636,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Data Stream
 |  |
 | ------- |
