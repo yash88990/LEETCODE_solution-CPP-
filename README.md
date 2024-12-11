@@ -353,6 +353,7 @@
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
@@ -495,6 +496,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
@@ -509,6 +511,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
@@ -549,6 +552,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -574,6 +578,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
