@@ -5,9 +5,10 @@ public:
         if (n == 0) return 1.0;
 
         // Handle the special case where n == INT_MIN
-        if (n == INT_MIN) {
-            return myPow(x, n + 1) / x; // Avoid overflow by reducing n by 1
-        }
+       if (n == INT_MIN) { 
+        // Special case to handle INT_MIN since -n overflows
+        return 1 / (myPow(x, -(n + 1)) * x);
+    }
 
         // If n is negative, calculate the positive power and take the reciprocal
         if (n < 0) {
