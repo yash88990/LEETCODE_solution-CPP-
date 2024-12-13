@@ -1,40 +1,24 @@
 class Solution {
 public:
     string getPermutation(int n, int k) {
-        string result;
-        vector<int> digits;
-
-        // Create a list of digits from 1 to n
-        for (int i = 1; i <= n; ++i) {
-            digits.push_back(i);
-        }
-
-        // Calculate factorial of (n-1)
+        // Initialize the numbers and factorial array
+        vector<int> numbers;
         int fact = 1;
-        for (int i = 2; i < n; ++i) {
-            fact *= i;
+        for (int i = 1; i <= n; ++i) {
+            numbers.push_back(i);
+            fact *= i; // Compute n!
         }
+        
+        // Adjust k to 0-based index
+        k -= 1;
 
-        // Adjust k to 0-based indexing
-        --k;
-
-        // Iterate from n down to 1
-        for (int i = n; i >= 1; --i) {
-            // Calculate index of the digit to be selected
-            int index = k / fact;
-            
-            // Update result by appending the selected digit
-            result += to_string(digits[index]);
-            
-            // Remove the selected digit from the list
-            digits.erase(digits.begin() + index);
-            
-            // Update k
-            k %= fact;
-            
-            // Update fact
-            if (i > 1)
-                fact /= (i - 1);
+        string result = "";
+        for (int i = 0; i < n; ++i) {
+            fact /= (n - i); // Factorial for remaining digits
+            int index = k / fact; // Find the index of the current number
+            result += to_string(numbers[index]); // Add the selected number to result
+            numbers.erase(numbers.begin() + index); // Remove used number
+            k %= fact; // Update k for the next group
         }
 
         return result;
