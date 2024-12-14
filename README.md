@@ -351,6 +351,7 @@
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
@@ -701,9 +702,11 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
