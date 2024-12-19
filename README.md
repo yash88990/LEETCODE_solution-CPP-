@@ -476,6 +476,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0151-reverse-words-in-a-string) |
@@ -508,6 +509,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -643,6 +645,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
