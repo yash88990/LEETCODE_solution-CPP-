@@ -1,19 +1,29 @@
+#include <stack>
+
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> brackets ;
-        for(char c : s ) {
-            if ( c == '('||  c == '['  || c == '{' ){
-                brackets.push(c) ;
-            }else{
-                if(brackets.empty()) return false ;
-                char top = brackets.top() ;
-                brackets.pop();
-                if( ( c ==')' && top != '(') || (c == ']' && top != '[') || (c == '}' && top != '{') ){
-                    return false ;
+        std::stack<char> stack;
+        
+        for (char c : s) {
+            // Push opening brackets to the stack
+            if (c == '(' || c == '{' || c == '[') {
+                stack.push(c);
+            } else {
+                // For closing brackets, check for matching opening brackets
+                if (stack.empty()) {
+                    return false; // No opening bracket available
                 }
+                if ((c == ')' && stack.top() != '(') ||
+                    (c == '}' && stack.top() != '{') ||
+                    (c == ']' && stack.top() != '[')) {
+                    return false; // Mismatched bracket
+                }
+                stack.pop(); // Valid match, remove the opening bracket
             }
         }
-        return brackets.empty() ;
+        
+        // If stack is empty, all brackets matched correctly
+        return stack.empty();
     }
 };
