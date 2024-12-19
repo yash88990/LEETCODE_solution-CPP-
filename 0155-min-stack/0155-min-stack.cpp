@@ -1,35 +1,36 @@
-#include <stack>
-
 class MinStack {
-private:
-    std::stack<int> mainStack;
-    std::stack<int> minStack;
-
+    private:
+    stack<int> mainStack;
+    stack<int> minStack;
 public:
     MinStack() {
-        // No initialization needed
+        
     }
     
     void push(int val) {
         mainStack.push(val);
-        if (minStack.empty() || val <= minStack.top()) {
+        if(minStack.empty() || val <= minStack.top()){
             minStack.push(val);
         }
+        
     }
     
     void pop() {
-        if (mainStack.top() == minStack.top()) {
+        if(mainStack.top() == minStack.top()){
             minStack.pop();
         }
         mainStack.pop();
+        
     }
     
     int top() {
         return mainStack.top();
+        
     }
     
     int getMin() {
         return minStack.top();
+        
     }
 };
 
