@@ -410,6 +410,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0206-reverse-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -438,6 +439,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
