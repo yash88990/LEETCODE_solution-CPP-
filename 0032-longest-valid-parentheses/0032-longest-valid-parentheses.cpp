@@ -1,23 +1,27 @@
+#include <stack>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        std::stack<int> stk;
-        stk.push(-1); // Initialize stack with a dummy index
-        
+        stack<int> stack;
+        stack.push(-1); // Base case to handle edge cases
         int maxLen = 0;
+
         for (int i = 0; i < s.length(); ++i) {
             if (s[i] == '(') {
-                stk.push(i);
+                stack.push(i); // Push index of '('
             } else {
-                stk.pop();
-                if (stk.empty()) {
-                    stk.push(i); // Update the index of the last unmatched ')' character
+                stack.pop(); // Pop the top (matching '(' or base case `-1`)
+                if (stack.empty()) {
+                    stack.push(i); // Push current index as a new base
                 } else {
-                    maxLen = std::max(maxLen, i - stk.top());
+                    maxLen = max(maxLen, i - stack.top()); // Update max length
                 }
             }
         }
-        
+
         return maxLen;
     }
 };
