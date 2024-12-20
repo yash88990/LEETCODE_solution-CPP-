@@ -454,6 +454,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2868-continuous-subarrays) |
@@ -520,6 +521,7 @@
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -714,6 +716,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
