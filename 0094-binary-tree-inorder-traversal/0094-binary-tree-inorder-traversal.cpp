@@ -10,17 +10,23 @@
  * };
  */
 class Solution {
+    void inorder(TreeNode* root , vector<int>& result){
+        //base case
+        if(root == NULL ) return;
+        // left node right
+        //1. left
+        inorder(root->left , result);
+        //2. node
+        result.push_back(root->val);
+        //3. right
+        inorder(root->right , result);
+    }
 public:
-void solve(TreeNode* root ,vector<int>& result  ){
-      if (root == NULL ) return ;
-      solve(root->left , result);
-      result.push_back(root->val);
-      solve(root->right , result) ;
-  }
     vector<int> inorderTraversal(TreeNode* root) {
-         vector<int> result ;
-        solve(root , result);
+        vector<int> result;
+        inorder(root , result);
         return result;
+
         
     }
 };
