@@ -10,18 +10,22 @@
  * };
  */
 class Solution {
+    void postorder(TreeNode* root , vector<int>& result){
+        //base csae 
+        if(root == NULL ) return ;
+        // left right node 
+        //1 ==> left 
+        postorder(root->left , result);
+        //2. right
+        postorder(root->right , result);
+        //3. node
+        result.push_back(root->val);
+    }
 public:
-void post(TreeNode* root , vector<int>& result){
-    //base case 
-    if(root == NULL ) return ;
-    post(root->left , result);
-    post(root->right , result);
-    result.push_back(root->val);
-}
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> result;
-        post(root , result);
+        postorder(root , result);
         return result;
-        
+
     }
 };
