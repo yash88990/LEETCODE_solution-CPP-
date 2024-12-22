@@ -317,6 +317,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
@@ -609,6 +610,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -621,6 +623,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
