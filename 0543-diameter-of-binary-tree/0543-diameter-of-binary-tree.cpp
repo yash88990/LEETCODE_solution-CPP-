@@ -10,22 +10,25 @@
  * };
  */
 class Solution {
-private:
-int height(TreeNode* root){
-    //base case 
-    if(root == NULL ) return 0;
-    int left = height(root->left);
-    int right = height(root->right);
-    int ans = max(left , right) + 1 ;
-    return ans;
-}
 public:
+pair<int , int>  solve(TreeNode* root){
+     if(root == NULL){
+        pair<int,int> p = make_pair(0,0);
+        return p;
+     }
+     pair<int,int> left = solve(root->left);
+     pair<int,int> right = solve(root->right);
+
+        int ans1 = left.first;
+        int ans2 = right.first;
+        int ans3 = left.second + right.second ;
+       pair<int,int> finalans;
+       finalans.first = max(ans1 , max(ans2 , ans3));
+       finalans.second = max(left.second , right.second) + 1 ;
+       return finalans;
+}
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root == NULL) return 0;
-        int ans1 = diameterOfBinaryTree(root->left);
-        int ans2 = diameterOfBinaryTree(root->right);
-        int ans3 = height(root->left) + height(root->right)  ;
-        int finalans = max(ans1 , max(ans2 , ans3));
-        return finalans;
+        return solve(root).first;
+       
     }
 };
