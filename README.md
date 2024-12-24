@@ -615,6 +615,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -630,6 +631,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -770,6 +772,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
+| [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
