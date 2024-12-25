@@ -320,6 +320,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -333,6 +334,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -621,6 +623,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -641,6 +644,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
