@@ -405,6 +405,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1803-average-waiting-time](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -523,6 +524,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -724,6 +726,7 @@
 | [1063-best-sightseeing-pair](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2164-two-best-non-overlapping-events) |
 ## Shortest Path
