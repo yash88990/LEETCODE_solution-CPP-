@@ -382,6 +382,7 @@
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0792-binary-search) |
@@ -726,6 +727,7 @@
 | [0198-house-robber](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
+| [0747-min-cost-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1063-best-sightseeing-pair) |
