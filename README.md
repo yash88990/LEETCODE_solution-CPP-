@@ -514,6 +514,7 @@
 | [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
@@ -604,6 +605,7 @@
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
