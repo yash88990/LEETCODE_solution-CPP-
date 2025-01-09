@@ -425,6 +425,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2164-two-best-non-overlapping-events) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
@@ -547,6 +548,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2465-shifting-letters-ii) |
@@ -901,6 +903,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Quickselect
 |  |
