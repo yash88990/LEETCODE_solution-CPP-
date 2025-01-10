@@ -392,6 +392,7 @@
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1025-minimum-cost-for-tickets) |
@@ -535,6 +536,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0953-reverse-only-letters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1524-string-matching-in-an-array) |
@@ -627,6 +629,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
