@@ -2,31 +2,38 @@ class Solution {
 public:
     bool canBeValid(string s, string locked) {
         int n = s.length();
-        if (n % 2 != 0) return false; // Odd length cannot be valid
+        // Agar string ki length odd hai toh valid parentheses nahi ban sakte, kyunki har '(' ke liye ek ')' chahiye
+        if (n % 2 != 0) return false;
 
-        // Forward pass: Check for enough '('
-        int balance = 0; // Tracks excess '('
+        // Forward pass: Check karte hain ki '(' ki sufficient quantity ho valid parentheses banane ke liye
+        int balance = 0; // Yeh variable track karega ki ab tak kitne '(' zyada hain
         for (int i = 0; i < n; ++i) {
             if (locked[i] == '0' || s[i] == '(') {
-                balance++; // Treat unlocked or '(' as '('
+                // Agar character unlocked hai ya '(' hai, toh usse '(' ki tarah treat karenge
+                balance++;
             } else {
-                balance--; // Treat ')' as ')'
+                // Agar character ')' hai, toh usse ')' ki tarah treat karenge
+                balance--;
             }
-            if (balance < 0) return false; // Too many ')'
+            // Agar kabhi ')' zyada ho gaye (balance negative ho gaya), toh yeh string valid nahi ho sakti
+            if (balance < 0) return false;
         }
 
-        // Backward pass: Check for enough ')'
-        balance = 0; // Tracks excess ')'
+        // Backward pass: Check karte hain ki ')' ki sufficient quantity ho valid parentheses banane ke liye
+        balance = 0; // Yeh variable ab track karega ki ab tak kitne ')' zyada hain
         for (int i = n - 1; i >= 0; --i) {
             if (locked[i] == '0' || s[i] == ')') {
-                balance++; // Treat unlocked or ')' as ')'
+                // Agar character unlocked hai ya ')' hai, toh usse ')' ki tarah treat karenge
+                balance++;
             } else {
-                balance--; // Treat '(' as '('
+                // Agar character '(' hai, toh usse '(' ki tarah treat karenge
+                balance--;
             }
-            if (balance < 0) return false; // Too many '('
+            // Agar kabhi '(' zyada ho gaye (balance negative ho gaya), toh yeh string valid nahi ho sakti
+            if (balance < 0) return false;
         }
 
-        // If both passes succeed, it's possible to make the string valid
+        // Agar dono passes (forward aur backward) successful hain, toh string valid ban sakti hai
         return true;
     }
 };
