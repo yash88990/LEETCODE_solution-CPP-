@@ -335,6 +335,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
@@ -382,6 +383,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
@@ -699,6 +701,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
@@ -724,6 +727,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1325-path-with-maximum-probability) |
