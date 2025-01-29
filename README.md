@@ -322,6 +322,7 @@
 | [0386-lexicographical-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
@@ -342,6 +343,7 @@
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
@@ -357,6 +359,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -860,6 +863,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
