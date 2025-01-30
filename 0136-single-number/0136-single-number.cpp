@@ -1,24 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n = nums.size(); 
-        if (n == 1) {
-            return nums[0];
-        }
-        for (int i = 0; i < n; i++) {
-            int count = 0;
-
-            for (int j = 0; j < n; j++) {
-                if (i != j && nums[i] == nums[j]) {
-                    count++;
-                    break;
-                }
-            }
-
-            if (count == 0) {
-                return nums[i];
-            }
+        unordered_map<int,int> freq;
+        for(int num : nums)freq[num]++;
+        for(int num: nums){
+            if(freq[num] == 1 )return num;
         }
         return -1;
+
     }
 };
