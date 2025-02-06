@@ -10,9 +10,9 @@ public:
                 productcount[product]++;
             }
         }
-        for(auto & [product , freq] : productcount){
-            if(freq > 1 ){
-                count += (freq * (freq - 1 ) / 2 ) * 8 ;
+        for(auto & entry : productcount){
+            if(entry.second > 1 ){
+                count += (entry.second * (entry.second - 1 ) / 2 ) * 8 ;
             }
         }
         return count ;
