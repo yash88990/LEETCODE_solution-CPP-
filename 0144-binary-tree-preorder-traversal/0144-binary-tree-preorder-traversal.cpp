@@ -19,10 +19,9 @@ void preorder(TreeNode* root , vector<int>& result){
     preorder(root->left , result ); // left 
     preorder(root->right , result);  // right
 }
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> result;
-        preorder(root , result);
-        return result;
-
-    }
+vector<int> preorderTraversal(TreeNode* root) {
+    vector<int> result;
+     preorder(root , result);
+    return result;
+}
 };
