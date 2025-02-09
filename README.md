@@ -468,6 +468,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -518,6 +519,7 @@
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -698,6 +700,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -820,6 +823,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3455-minimum-length-of-string-after-operations) |
