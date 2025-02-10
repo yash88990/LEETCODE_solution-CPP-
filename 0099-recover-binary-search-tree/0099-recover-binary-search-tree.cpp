@@ -1,49 +1,24 @@
-#include <iostream>
-using namespace std;
-
-
-
 class Solution {
 public:
+    vector<TreeNode*> nodes;
+    
+    void inorder(TreeNode* root) {
+        if (!root) return;
+        inorder(root->left);
+        nodes.push_back(root);
+        inorder(root->right);
+    }
+    
     void recoverTree(TreeNode* root) {
-        TreeNode *first = nullptr, *second = nullptr, *prev = nullptr, *pred = nullptr;
+        inorder(root);
+        TreeNode *first = nullptr, *second = nullptr;
         
-        while (root) {
-            if (root->left) {
-                // Find the rightmost node in the left subtree or the inorder predecessor
-                pred = root->left;
-                while (pred->right && pred->right != root) {
-                    pred = pred->right;
-                }
-                // Link the predecessor to root
-                if (!pred->right) {
-                    pred->right = root;
-                    root = root->left;
-                } else {
-                    // Revert the changes and fix the swapped nodes
-                    if (prev && root->val < prev->val) {
-                        if (!first) first = prev;
-                        second = root;
-                    }
-                    prev = root;
-
-                    pred->right = nullptr;
-                    root = root->right;
-                }
-            } else {
-                if (prev && root->val < prev->val) {
-                    if (!first) first = prev;
-                    second = root;
-                }
-                prev = root;
-                root = root->right;
+        for (int i = 0; i < nodes.size() - 1; i++) {
+            if (nodes[i]->val > nodes[i + 1]->val) {
+                if (!first) first = nodes[i];  // First violation
+                second = nodes[i + 1];  // Second violation
             }
         }
-        // Swap the values of the two nodes
-        if (first && second) {
-            int temp = first->val;
-            first->val = second->val;
-            second->val = temp;
-        }
+        swap(first->val, second->val);  // Swap to fix the BST
     }
 };
