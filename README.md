@@ -429,6 +429,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1025-minimum-cost-for-tickets) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1293-three-consecutive-odds) |
@@ -632,6 +633,7 @@
 | [0227-basic-calculator-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -735,6 +737,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -759,6 +762,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
@@ -942,6 +946,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2164-two-best-non-overlapping-events) |
@@ -1003,6 +1008,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Eulerian Circuit
