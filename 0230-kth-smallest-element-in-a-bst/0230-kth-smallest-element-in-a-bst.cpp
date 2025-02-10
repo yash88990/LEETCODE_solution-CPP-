@@ -11,19 +11,11 @@
  */
 
 class Solution {
-public:
-    int kthSmallest(TreeNode* root, int k) {
-        count = 0;  // Reset the counter
-        result = -1;  // Reset the result
-        inOrder(root, k);  // Start in-order traversal from root
-        return result;
-    }
-
+    
 private:
-    int count;  // Counter to track the number of nodes visited
-    int result;  // Variable to store the kth smallest value
-
-    void inOrder(TreeNode* node, int k) {
+    int count;  
+    int result ; 
+     void inOrder(TreeNode* node, int k) {
         if (node == nullptr) return;
         inOrder(node->left, k);  // Visit left subtree
         count++;  // Visit this node
@@ -33,4 +25,12 @@ private:
         }
         inOrder(node->right, k);  // Visit right subtree
     }
+public:
+    int kthSmallest(TreeNode* root, int k) {
+        count = 0;  
+        result = -1; 
+        inOrder(root, k);  
+        return result;
+    }
+
 };
