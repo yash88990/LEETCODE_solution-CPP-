@@ -442,6 +442,7 @@
 | [1364-tuple-with-same-product](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -528,6 +529,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
@@ -950,6 +952,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
@@ -984,6 +987,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -1005,6 +1009,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
