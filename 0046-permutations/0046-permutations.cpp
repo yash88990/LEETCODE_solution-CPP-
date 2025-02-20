@@ -1,27 +1,21 @@
 class Solution {
-public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> result;
-        vector<int> temp;
-        vector<bool> used(nums.size(), false);
-        backtrack(nums, temp, used, result);
-        return result;
-    }
-    
-    void backtrack(vector<int>& nums, vector<int>& temp, vector<bool>& used, vector<vector<int>>& result) {
-        if (temp.size() == nums.size()) {
-            result.push_back(temp);
+private:
+    void solve(int index , vector<int>& nums , vector<vector<int>> &ans){
+        if( index == nums.size()){
+            ans.push_back({nums});
             return;
         }
-        
-        for (int i = 0; i < nums.size(); ++i) {
-            if (!used[i]) {
-                temp.push_back(nums[i]);
-                used[i] = true;
-                backtrack(nums, temp, used, result);
-                temp.pop_back();
-                used[i] = false;
-            }
+        for(int i = index ; i < nums.size() ; i++){
+            swap(nums[i] , nums[index]);
+            solve(index+1 , nums , ans);
+            swap(nums[i] , nums[index]);
+
         }
+    }
+public:
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>> ans;
+        solve(0 , nums,ans);
+        return ans;
     }
 };
