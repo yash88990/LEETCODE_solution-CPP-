@@ -404,6 +404,7 @@
 | [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0088-merge-sorted-array) |
@@ -723,6 +724,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
@@ -816,6 +818,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
