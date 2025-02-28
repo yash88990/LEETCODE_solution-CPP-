@@ -631,6 +631,7 @@
 | [0952-word-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0953-reverse-only-letters) |
 | [1160-letter-tile-possibilities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1524-string-matching-in-an-array) |
@@ -934,6 +935,7 @@
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
