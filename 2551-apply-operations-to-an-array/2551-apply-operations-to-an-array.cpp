@@ -8,13 +8,14 @@ public:
                 nums[i] = 0;
             }
         }
-        vector<int> ans ;
-        for(int i = 0 ; i < n ; i++){
-            if(nums[i] != 0) ans.push_back(nums[i]);
+        int insertPos = 0;
+        for(int i = 0; i < n; i++){
+            if(nums[i] != 0){
+                swap(nums[i], nums[insertPos]);
+                insertPos++;
+            }
         }
-        for(int i = ans.size() ;i < n ; i++ ){
-            ans.push_back(0);
-        }
-        return ans;
+
+        return nums;
     }
 };
