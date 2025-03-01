@@ -10,18 +10,20 @@
  * };
  */
 class Solution {
-    void inordertraveral(TreeNode *root , vector<int> &inorder){
-    if(!root)return;
-    //left node right
-    inordertraveral(root->left , inorder);
-    inorder.push_back(root->val);
-    inordertraveral(root->right , inorder);
-
-}
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> inorder;
-        inordertraveral(root , inorder);
-        return inorder;
+        vector<int> result;
+        stack<TreeNode*> stk;
+        TreeNode* curr = root;
+        while(curr || !stk.empty()){
+            while(curr){
+                stk.push(curr);
+                curr = curr->left;
+            }
+            curr = stk.top(); stk.pop();
+            result.push_back(curr->val);
+            curr = curr->right;
+        }
+        return result;
     }
 };
