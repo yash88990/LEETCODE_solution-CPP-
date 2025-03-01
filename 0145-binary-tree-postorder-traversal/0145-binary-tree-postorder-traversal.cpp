@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        if (root == nullptr) return {};
+       if (root == nullptr) return {};
         
         stack<TreeNode*> s1, s2;
         vector<int> result;
