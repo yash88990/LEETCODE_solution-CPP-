@@ -8,14 +8,13 @@ public:
                 nums[i] = 0;
             }
         }
-        int insertPos = 0;
-        for(int i = 0; i < n; i++){
+        int index = 0;
+        for(int i = 0 ; i < n ; i++){
             if(nums[i] != 0){
-                swap(nums[i], nums[insertPos]);
-                insertPos++;
+                swap(nums[i] , nums[index]);
+                index++;
             }
         }
-
         return nums;
     }
 };
