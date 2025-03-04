@@ -814,6 +814,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0450-delete-node-in-a-bst) |
@@ -847,6 +848,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0450-delete-node-in-a-bst) |
@@ -1061,6 +1063,7 @@
 | [0099-recover-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0450-delete-node-in-a-bst) |
@@ -1100,6 +1103,7 @@
 | ------- |
 | [0078-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0476-number-complement) |
