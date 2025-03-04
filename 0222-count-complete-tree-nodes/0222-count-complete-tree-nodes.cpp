@@ -1,36 +1,38 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    // Function to calculate depth (height) of leftmost path
-    int leftDepth(TreeNode* node) {
-        int depth = 0;
-        while (node) {
-            depth++;
-            node = node->left;
+    int leftheight(TreeNode* root){
+        int height = 0 ;
+        while(root){
+            height++;
+            root = root->left;
         }
-        return depth;
+        return height;
     }
-
-    // Function to calculate depth (height) of rightmost path
-    int rightDepth(TreeNode* node) {
-        int depth = 0;
-        while (node) {
-            depth++;
-            node = node->right;
+    int rightheight(TreeNode* root){
+        int height = 0 ;
+        while(root){
+            height++;
+            root = root->right;
         }
-        return depth;
+        return height;
     }
-
     int countNodes(TreeNode* root) {
-        if (!root) return 0;
-
-        int leftH = leftDepth(root);
-        int rightH = rightDepth(root);
-
-        // If left and right heights are same, it's a perfect tree
-       if (leftH == rightH) {
-            return pow(2, leftH ) - 1;
-        } 
-        // Otherwise, count nodes recursively in left and right subtrees
+        if(!root)return 0;
+        int lh = leftheight(root);
+        int rh = rightheight(root);
+        if(lh == rh )return pow(2 , lh )-1;
         return 1 + countNodes(root->left) + countNodes(root->right);
+        
     }
 };
