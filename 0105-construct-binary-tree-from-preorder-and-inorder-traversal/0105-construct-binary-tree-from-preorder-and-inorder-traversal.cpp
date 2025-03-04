@@ -1,20 +1,16 @@
-// #include <unordered_map>
-// #include <vector>
-// using namespace std;
-
-// // Binary Tree Node ka definition
-// struct TreeNode {
-//     int val; // Node ka value
-//     TreeNode* left; // Left child pointer
-//     TreeNode* right; // Right child pointer
-//     TreeNode() : val(0), left(nullptr), right(nullptr) {} // Default constructor
-//     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {} // Constructor with value
-//     TreeNode(int x, TreeNode* left, TreeNode* right) : val(x), left(left), right(right) {} // Constructor with left and right pointers
-// };
-
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    // Helper function jo binary tree banata hai
     TreeNode* buildTreeHelper(vector<int>& preorder, int preStart, int preEnd, 
                               vector<int>& inorder, int inStart, int inEnd, 
                               unordered_map<int, int>& inMap) {
