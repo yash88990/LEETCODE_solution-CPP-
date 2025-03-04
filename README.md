@@ -331,6 +331,7 @@
 | [0684-redundant-connection](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -360,6 +361,7 @@
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -764,6 +766,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -821,6 +824,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -853,6 +857,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
