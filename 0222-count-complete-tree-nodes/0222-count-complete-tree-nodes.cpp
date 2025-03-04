@@ -27,10 +27,9 @@ public:
         int rightH = rightDepth(root);
 
         // If left and right heights are same, it's a perfect tree
-        if (leftH == rightH) {
-            return (1 << leftH) - 1;  // 2^h - 1 nodes in a perfect tree
-        }
-
+       if (leftH == rightH) {
+            return pow(2, leftH ) - 1;
+        } 
         // Otherwise, count nodes recursively in left and right subtrees
         return 1 + countNodes(root->left) + countNodes(root->right);
     }
