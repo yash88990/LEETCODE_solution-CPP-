@@ -534,6 +534,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -1014,6 +1015,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3483-alternating-groups-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
