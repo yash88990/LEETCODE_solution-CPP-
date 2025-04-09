@@ -1,20 +1,16 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        // Check for impossible case
-        for (int num : nums) {
-            if (num < k) return -1;
-        }
-
-        // Store all distinct values greater than k
-        unordered_set<int> greaterThanK;
-        for (int num : nums) {
-            if (num > k) {
-                greaterThanK.insert(num);
+        //step 1 
+        for(int num : nums)if(num < k)return -1;
+        //step 2 
+        unordered_set<int> s;
+        for(int num : nums){
+            if(num > k ){
+                s.insert(num);
             }
         }
-
-        // Each distinct value > k will require one operation
-        return greaterThanK.size();
+        //step3 
+        return s.size();
     }
 };
