@@ -524,6 +524,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2358-number-of-ways-to-split-array) |
@@ -977,6 +978,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1003,6 +1005,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1177,6 +1180,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2164-two-best-non-overlapping-events) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2690-house-robber-iv) |
@@ -1245,10 +1249,12 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2868-continuous-subarrays) |
 ## Monotonic Stack
@@ -1303,4 +1309,8 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
