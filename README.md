@@ -610,6 +610,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1072,6 +1073,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2562-count-ways-to-build-good-strings) |
 ## Shortest Path
 |  |
@@ -1252,6 +1254,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Trie
@@ -1319,6 +1322,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Enumeration
 |  |
 | ------- |
