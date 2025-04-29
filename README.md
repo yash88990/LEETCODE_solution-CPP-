@@ -415,6 +415,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -768,6 +769,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0179-largest-number) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1113,6 +1115,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0026-remove-duplicates-from-sorted-array) |
