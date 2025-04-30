@@ -487,6 +487,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -611,6 +612,7 @@
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
