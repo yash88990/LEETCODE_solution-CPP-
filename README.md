@@ -425,6 +425,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
@@ -829,6 +830,7 @@
 | [0001-two-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
@@ -966,6 +968,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
