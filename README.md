@@ -615,6 +615,7 @@
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
@@ -667,6 +668,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
@@ -1316,6 +1318,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
