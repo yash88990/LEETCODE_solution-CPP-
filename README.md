@@ -585,6 +585,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Linked List
@@ -1317,6 +1318,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2465-shifting-letters-ii) |
+| [3639-zero-array-transformation-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
