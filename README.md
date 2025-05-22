@@ -436,6 +436,7 @@
 | [0054-spiral-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0088-merge-sorted-array) |
@@ -1012,6 +1013,7 @@
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
@@ -1247,6 +1249,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
