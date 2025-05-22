@@ -1,32 +1,38 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-        std::vector<std::vector<int>> matrix(n, std::vector<int>(n, 0));
+        vector<vector<int>>ans(n , vector<int>(n , 0));
+        int top = 0 , left = 0 , right = n-1 , bottom = n-1;
         int num = 1;
-        int top = 0, bottom = n - 1, left = 0, right = n - 1;
-        
-        while (num <= n * n) {
-            // Traverse from left to right
-            for (int i = left; i <= right; ++i)
-                matrix[top][i] = num++;
+        while(num <= n * n){
+            //left to right
+            for(int i = left ; i <= right ; i++){
+                 ans[top][i] = num++;
+            }
             top++;
             
-            // Traverse from top to bottom
-            for (int i = top; i <= bottom; ++i)
-                matrix[i][right] = num++;
+            //top to bottom
+            for(int i = top ; i <= bottom ; i++){
+                ans[i][right] = num++;
+            }
             right--;
             
-            // Traverse from right to left
-            for (int i = right; i >= left; --i)
-                matrix[bottom][i] = num++;
-            bottom--;
-            
-            // Traverse from bottom to top
-            for (int i = bottom; i >= top; --i)
-                matrix[i][left] = num++;
-            left++;
+            //right to left 
+            if(top <= bottom){
+                for(int i = right ;i >= left ; i--){
+                    ans[bottom][i] = num++;
+                }
+                bottom--;
+            }
+            //bottom to top
+            if(left <= right){
+                for(int i = bottom ; i >= top ; i--){
+                    ans[i][left] = num++;
+                }
+                left++;
+            }
         }
-        
-        return matrix;
+        return ans;
+
     }
 };
