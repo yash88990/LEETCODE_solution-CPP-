@@ -586,6 +586,7 @@
 | [3321-type-of-triangle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3483-alternating-groups-ii) |
@@ -932,6 +933,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
