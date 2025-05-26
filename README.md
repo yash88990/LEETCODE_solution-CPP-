@@ -466,6 +466,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
@@ -1219,6 +1220,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
@@ -1287,6 +1289,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1341,6 +1344,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
