@@ -463,6 +463,7 @@
 | [0229-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
@@ -1034,6 +1035,7 @@
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
@@ -1067,6 +1069,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1282,6 +1285,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0450-delete-node-in-a-bst) |
