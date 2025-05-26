@@ -517,6 +517,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
@@ -753,6 +754,7 @@
 | [1524-string-matching-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1651-shuffle-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
