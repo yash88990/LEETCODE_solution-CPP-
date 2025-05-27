@@ -5,7 +5,7 @@ public:
         string word , result ;
         vector<string> newword;
         while(ss >> word)newword.push_back(word);
-        reverse(newword.begin() , newword.end());
+        reverse(newword.begin() ,newword.end());
         for(int i = 0 ; i < newword.size() ; i++){
             result += newword[i];
             if(i < newword.size() - 1){
