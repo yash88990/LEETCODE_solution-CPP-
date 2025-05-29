@@ -616,6 +616,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -676,6 +677,7 @@
 | [0206-reverse-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -805,6 +807,7 @@
 | [0225-implement-stack-using-queues](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1227,6 +1230,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
