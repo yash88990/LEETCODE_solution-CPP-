@@ -1,48 +1,52 @@
-class Solution {
+/*
+// Definition for a Node.
+class Node {
 public:
-    // Helper function that flattens the list and returns the tail node of the flattened list
-    Node* flattenGetTail(Node* head) {
-        Node* curr = head;
-        Node* tail = head;
+    int val;
+    Node* prev;
+    Node* next;
+    Node* child;
+};
+*/
 
-        while (curr) {
+class Solution {
+
+public:
+    Node* solve(Node* head){
+        Node* curr = head , *tail = head;
+        while(curr){
             Node* nextNode = curr->next;
-
-            // If current node has a child, flatten the child list first
-            if (curr->child) {
+            //priority 1 :- check for child (top to bottom)
+            if(curr->child){
                 Node* childHead = curr->child;
-                Node* childTail = flattenGetTail(childHead);
+                Node* childTail = solve(childHead);
 
-                // Insert the child list between curr and nextNode
                 curr->next = childHead;
                 childHead->prev = curr;
 
-                // Connect childTail to nextNode if it exists
-                if (nextNode) {
-                    childTail->next = nextNode;
+                if(nextNode){
+                    childTail->next= nextNode;
                     nextNode->prev = childTail;
                 }
+                curr->child = NULL;
 
-                // Child pointer should be set to nullptr after flattening
-                curr->child = nullptr;
-
-                // Update tail to childTail because the list got extended
                 tail = childTail;
                 curr = childTail;
-            } else {
-                tail = curr; // Update tail as we traverse
+
+
+            }else{
+                tail = curr;
+
             }
-
             curr = curr->next;
+            
         }
-
         return tail;
     }
-
     Node* flatten(Node* head) {
-        if (!head) return head;
-
-        flattenGetTail(head);
+        if(!head)return head;
+        solve(head);
         return head;
+        
     }
 };
