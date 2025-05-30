@@ -6,33 +6,25 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if (!head || !head->next) return nullptr;
-
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        // Phase 1: Detect if cycle exists
-        while (fast && fast->next) {
+        if(!head ||  !head->next)return NULL;
+        ListNode *slow = head , *fast = head;
+        //dect cycle or not 
+        while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
-
-            if (slow == fast) {
-                // Cycle detected
-                // Phase 2: Find entry point of the cycle
-                ListNode* entry = head;
-                while (entry != slow) {
-                    entry = entry->next;
+            if(slow == fast){
+                //cycle present hai 
+                slow = head;
+                while(slow != fast){
                     slow = slow->next;
+                    fast = fast->next;
                 }
-                return entry;
+                return slow;
             }
         }
-
-        // No cycle
-        return nullptr;
+        return NULL;
     }
 };
