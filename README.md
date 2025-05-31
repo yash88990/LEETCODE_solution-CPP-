@@ -615,6 +615,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -1228,6 +1229,7 @@
 | [0015-3sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
