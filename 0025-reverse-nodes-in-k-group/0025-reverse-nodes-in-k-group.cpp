@@ -1,40 +1,41 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if(!head  || k == 1 ) return head ;
-        ListNode* temp = new ListNode(0);
-        temp->next = head;
-        ListNode* curr = temp ;
-        ListNode* next = temp;
-        ListNode* prev = temp;
-        int length = 0;
-        while(curr->next){
-            curr=curr->next;
-            length++;
-        }
-        while(length >= k ){
-            curr = prev->next;
-            next = curr->next;
+        if (!head || k == 1) return head;
 
-            for(int i = 1 ; i < k ; i++){
-                curr->next = next->next;
-                next->next = prev->next;
-                prev->next = next;
-                next = curr->next;
+        // Dummy node to ease edge cases
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        ListNode* prevGroupEnd = dummy;
+        ListNode* curr = head;
+
+        while (true) {
+            // Check if there are at least k nodes left to reverse
+            ListNode* check = curr;
+            for (int i = 0; i < k; ++i) {
+                if (!check) return dummy->next;  // Not enough nodes
+                check = check->next;
             }
-            prev = curr;
-            length -= k;
+
+            // Reverse k nodes
+            ListNode* groupStart = curr;
+            ListNode* prev = NULL;
+            ListNode* next = NULL;
+
+            for (int i = 0; i < k; ++i) {
+                next = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = next;
+            }
+
+            // Connect previous part to reversed group
+            prevGroupEnd->next = prev;
+            groupStart->next = curr;
+            prevGroupEnd = groupStart;
         }
-        return temp->next;
+
+        return dummy->next;
     }
 };
