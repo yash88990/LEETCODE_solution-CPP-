@@ -1,41 +1,32 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head || k == 1) return head;
-
-        // Dummy node to ease edge cases
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-
-        ListNode* prevGroupEnd = dummy;
-        ListNode* curr = head;
-
-        while (true) {
-            // Check if there are at least k nodes left to reverse
-            ListNode* check = curr;
-            for (int i = 0; i < k; ++i) {
-                if (!check) return dummy->next;  // Not enough nodes
-                check = check->next;
-            }
-
-            // Reverse k nodes
-            ListNode* groupStart = curr;
-            ListNode* prev = NULL;
-            ListNode* next = NULL;
-
-            for (int i = 0; i < k; ++i) {
-                next = curr->next;
-                curr->next = prev;
-                prev = curr;
-                curr = next;
-            }
-
-            // Connect previous part to reversed group
-            prevGroupEnd->next = prev;
-            groupStart->next = curr;
-            prevGroupEnd = groupStart;
+        // Step 1: Check if we have at least k nodes to reverse
+        ListNode* temp = head;
+        for (int i = 0; i < k; i++) {
+            if (!temp) return head; // Not enough nodes, return head as-is
+            temp = temp->next;
         }
 
-        return dummy->next;
+        // Step 2: Reverse k nodes
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        ListNode* next = nullptr;
+        int count = 0;
+
+        while (curr && count < k) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+            count++;
+        }
+
+        // Step 3: head now becomes the end of the group,
+        // connect it with the result of next recursive call
+        head->next = reverseKGroup(curr, k);
+
+        // prev is new head of the reversed group
+        return prev;
     }
 };
