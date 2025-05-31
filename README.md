@@ -621,6 +621,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0237-delete-node-in-a-linked-list) |
@@ -869,6 +870,7 @@
 | [0056-merge-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1091,6 +1093,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1124,6 +1127,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
@@ -1241,6 +1245,7 @@
 | [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0189-rotate-array) |
