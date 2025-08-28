@@ -611,6 +611,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
@@ -903,6 +904,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -1087,6 +1089,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
 | ------- |
