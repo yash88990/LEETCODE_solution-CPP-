@@ -598,6 +598,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -678,6 +679,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -905,6 +907,7 @@
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1499,6 +1502,7 @@
 | [1656-count-good-triplets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1507,6 +1511,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0223-rectangle-area) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
