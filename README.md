@@ -649,6 +649,7 @@
 | [0066-plus-one](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0224-basic-calculator) |
