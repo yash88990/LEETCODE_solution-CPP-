@@ -472,6 +472,7 @@
 | [0283-move-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
@@ -856,6 +857,7 @@
 | [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
