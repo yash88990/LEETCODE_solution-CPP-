@@ -673,6 +673,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
