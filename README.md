@@ -481,6 +481,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0747-min-cost-climbing-stairs) |
@@ -1248,6 +1249,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
