@@ -11,7 +11,7 @@ public:
 
         for (int i = k; i < nums.size(); ++i) {
             currentSum += nums[i] - nums[i - k];
-            maxSum = std::max(maxSum, currentSum);
+            maxSum = max(maxSum, currentSum);
         }
 
         return maxSum / k;
