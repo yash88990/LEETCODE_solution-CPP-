@@ -5,14 +5,15 @@ public:
         if (n == 0) return 0;
         if (n == 1) return cost[0];
         
-        vector<int> dp(n);
-        dp[0] = cost[0];
-        dp[1] = cost[1];
+        int prev2 = cost[0];
+        int prev1 = cost[1];
         
         for (int i = 2; i < n; ++i) {
-            dp[i] = cost[i] + min(dp[i - 1], dp[i - 2]);
+            int current = cost[i] + min(prev1, prev2);
+            prev2 = prev1;
+            prev1 = current;
         }
         
-        return min(dp[n - 1], dp[n - 2]);
+        return min(prev1, prev2);
     }
 };
