@@ -1,18 +1,17 @@
 class Solution {
 public:
-    int solvememo(int n , vector<int>&dp){
-        if(n<= 1)return n;
-        //step 3:- check ans exists or not
-        if(dp[n] != -1)return dp[n];
-        
-        //step 2:- store subproblem ans
-        return dp[n] = solvememo(n-1 , dp) + solvememo(n-2 , dp); 
-
-    }
-
     int fib(int n) {
-        //step 1 :- create a dp arrya of size (n+1)
+        //base case 
+        if(n <= 1)return n;
+        //step 1 ;- create a dp
         vector<int>dp(n+1 , -1);
-        return solvememo(n , dp);
+        //step 2 ;- base case
+        dp[0] = 0;
+        dp[1] = 1;
+
+        for(int i = 2 ; i <= n ; i++){
+            dp[i] = dp[i-1] + dp[i-2];
+        }
+        return dp[n];  
     }
 };
