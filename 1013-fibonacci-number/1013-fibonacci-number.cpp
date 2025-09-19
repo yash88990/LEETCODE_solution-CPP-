@@ -1,8 +1,12 @@
 class Solution {
 public:
-    int fib(int n) {
+    int solverecc(int n){
         if(n<= 1)return n;
 
-        return fib(n-1) + fib(n-2);
+        return solverecc(n-1) + solverecc(n-2); 
+    }
+    int fib(int n) {
+        return solverecc(n);
+        
     }
 };
