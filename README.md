@@ -786,6 +786,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1224,6 +1225,7 @@
 | [1063-best-sightseeing-pair](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
+| [1250-longest-common-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
