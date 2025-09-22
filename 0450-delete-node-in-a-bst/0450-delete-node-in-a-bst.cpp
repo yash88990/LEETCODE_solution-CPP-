@@ -11,30 +11,35 @@
  */
 class Solution {
 public:
-   TreeNode* findMin(TreeNode* node) {
-    while (node->left) node = node->left;
-    return node;
-}
-
-TreeNode* deleteNode(TreeNode* root, int key) {
-    if (!root) return NULL; // Base case: Empty tree
-
-    if (key < root->val) {
-        root->left = deleteNode(root->left, key);  // Move left
-    } else if (key > root->val) {
-        root->right = deleteNode(root->right, key); // Move right
-    } else { 
-        // Found the node to delete
-        if (!root->left) return root->right;  // No left child
-        if (!root->right) return root->left;  // No right child
-
-        // Two children: Find inorder successor (smallest in right subtree)
-        TreeNode* temp = findMin(root->right);
-        root->val = temp->val;  // Copy successor value
-        root->right = deleteNode(root->right, temp->val);  // Delete successor node
-    }
-    
+    TreeNode* findmin(TreeNode* root){
+    if(!root)return NULL;
+    while(root->left)root = root->left;
     return root;
 }
 
+    TreeNode* deleteNode(TreeNode* root, int key) {
+         if(!root)return root;
+    if(key < root->val){
+        root->left = deleteNode(root->left , key);
+    }
+    else if(key > root->val){
+        root->right = deleteNode(root->right , key);
+    }else{
+        //mil gaya  with single child
+        if(!root->left){
+            TreeNode* temp = root->right;
+            delete root ;
+            return temp;
+        }else if(!root->right){
+            TreeNode* temp = root->left;
+            delete root;
+            return temp;
+        }
+        //with double child
+        TreeNode* temp = findmin(root->right);
+        root->val = temp->val;
+        root->right = deleteNode(root->right , temp->val);
+    }
+    return root;
+    }
 };
