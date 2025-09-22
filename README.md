@@ -579,6 +579,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -746,6 +747,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1004,6 +1006,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1129,6 +1132,7 @@
 | [2145-grid-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
