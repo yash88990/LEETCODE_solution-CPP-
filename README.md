@@ -1295,6 +1295,7 @@
 | [0152-maximum-product-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0516-longest-palindromic-subsequence) |
@@ -1526,6 +1527,7 @@
 | [0231-power-of-two](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
