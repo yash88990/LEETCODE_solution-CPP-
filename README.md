@@ -382,6 +382,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -523,6 +524,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1063-best-sightseeing-pair) |
@@ -1168,6 +1170,7 @@
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1496-lucky-numbers-in-a-matrix) |
