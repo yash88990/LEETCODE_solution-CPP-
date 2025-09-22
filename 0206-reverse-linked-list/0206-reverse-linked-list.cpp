@@ -20,7 +20,5 @@ public:
             curr = temp;
         }
         return prev;
-
-
     }
 };
