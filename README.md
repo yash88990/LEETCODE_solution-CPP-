@@ -518,6 +518,7 @@
 | [0890-lemonade-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0952-word-subsets) |
@@ -1469,6 +1470,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
