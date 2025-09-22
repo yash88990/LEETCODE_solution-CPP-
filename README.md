@@ -499,6 +499,7 @@
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
+| [0435-non-overlapping-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -923,6 +924,7 @@
 | [0045-jump-game-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -966,6 +968,7 @@
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1304,6 +1307,7 @@
 | [0338-counting-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
