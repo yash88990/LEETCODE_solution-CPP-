@@ -727,6 +727,7 @@
 | [0239-sliding-window-maximum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2868-continuous-subarrays) |
 ## Simulation
@@ -1378,6 +1379,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1436,6 +1438,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
