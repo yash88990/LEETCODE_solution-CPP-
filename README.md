@@ -726,6 +726,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -793,6 +794,7 @@
 | [0541-reverse-string-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
+| [0649-dota2-senate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -888,6 +890,7 @@
 | [0179-largest-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0797-rabbits-in-forest) |
