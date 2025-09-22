@@ -1,8 +1,11 @@
+#include <vector>
+#include <algorithm>
+
 class Solution {
 public:
-        int minEatingSpeed(std::vector<int>& piles, int h) {
+    int minEatingSpeed(std::vector<int>& piles, int h) {
         int left = 1; // Minimum possible eating speed
-        int right = max_element(piles.begin(), piles.end()); // Maximum possible eating speed
+        int right = *std::max_element(piles.begin(), piles.end()); // Maximum possible eating speed
 
         while (left < right) {
             int mid = left + (right - left) / 2;
