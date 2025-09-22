@@ -508,6 +508,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -980,6 +981,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1319-unique-number-of-occurrences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1392-find-the-difference-of-two-arrays) |
