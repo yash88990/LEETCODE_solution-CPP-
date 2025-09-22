@@ -505,6 +505,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0735-asteroid-collision) |
@@ -921,6 +922,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0797-rabbits-in-forest) |
@@ -1297,6 +1299,7 @@
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
