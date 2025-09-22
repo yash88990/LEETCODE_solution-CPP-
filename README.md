@@ -393,6 +393,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -574,6 +575,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1172,6 +1174,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2132-convert-1d-array-into-2d-array) |
