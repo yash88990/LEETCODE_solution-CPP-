@@ -2,15 +2,13 @@ class Solution {
 public:
     string reverseWords(string s) {
         stringstream ss(s);
-        string word , result ;
-        vector<string> newword;
-        while(ss >> word)newword.push_back(word);
-        reverse(newword.begin() ,newword.end());
-        for(int i = 0 ; i < newword.size() ; i++){
-            result += newword[i];
-            if(i < newword.size() - 1){
-                result += " ";
-            }
+        string word , result;
+        vector<string>newwords;
+        while(ss >> word)newwords.push_back(word);
+        reverse(newwords.begin() , newwords.end());
+        for(int i = 0 ; i < newwords.size() ; i++){
+            result += newwords[i];
+            if(i < newwords.size() - 1)result += " ";
         }
         return result;
     }
