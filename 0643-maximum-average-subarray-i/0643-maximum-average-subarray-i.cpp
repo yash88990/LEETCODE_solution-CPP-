@@ -1,19 +1,15 @@
-
 class Solution {
 public:
-    double findMaxAverage(std::vector<int>& nums, int k) {
-        double currentSum = 0.0;
-        for (int i = 0; i < k; ++i) {
-            currentSum += nums[i];
+    double findMaxAverage(vector<int>& nums, int k) {
+        double currentsum = 0.0;
+        for(int i = 0 ; i < k ; i++){
+            currentsum += nums[i];
         }
-        
-        double maxSum = currentSum;
-
-        for (int i = k; i < nums.size(); ++i) {
-            currentSum += nums[i] - nums[i - k];
-            maxSum = max(maxSum, currentSum);
+        double maxsum = currentsum;
+        for(int i = k ; i < nums.size() ; i++){
+            currentsum += nums[i] - nums[i-k] ;
+            maxsum = max(currentsum , maxsum);
         }
-
-        return maxSum / k;
+        return maxsum / k;
     }
 };
