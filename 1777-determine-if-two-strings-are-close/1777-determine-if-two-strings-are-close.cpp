@@ -10,8 +10,8 @@ public:
         if (word1.length() != word2.length())
             return false;
         
-        std::unordered_map<char, int> count1, count2;
-        std::unordered_set<char> chars1, chars2;
+        unordered_map<char, int> count1, count2;
+        unordered_set<char> chars1, chars2;
         
         for (char c : word1) {
             count1[c]++;
@@ -23,7 +23,7 @@ public:
             chars2.insert(c);
         }
         
-        std::vector<int> freq1, freq2;
+        vector<int> freq1, freq2;
         for (auto& pair : count1) {
             freq1.push_back(pair.second);
         }
