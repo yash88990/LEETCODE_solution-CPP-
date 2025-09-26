@@ -531,6 +531,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1063-best-sightseeing-pair) |
@@ -1367,6 +1368,7 @@
 | [0239-sliding-window-maximum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1502,6 +1504,7 @@
 | [0792-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1564,6 +1567,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1537-maximum-score-after-splitting-a-string) |
