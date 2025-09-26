@@ -16,7 +16,7 @@ public:
                 }
                 left++;
             }
-            maxLen = std::max(maxLen, right - left);
+            maxLen = max(maxLen, right - left);
             right++;
         }
 
