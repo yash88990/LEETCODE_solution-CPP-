@@ -510,6 +510,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0739-daily-temperatures) |
@@ -1567,6 +1568,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
