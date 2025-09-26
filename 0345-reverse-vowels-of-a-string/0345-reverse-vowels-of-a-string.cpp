@@ -1,24 +1,17 @@
 class Solution {
-    bool isvowel(char ch){
-        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
-           ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U'){
-            return true;
-           }
+public:
+    bool isvowel(char c){
+        if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
+        c == 'A' || c =='E' || c == 'I' || c == 'O' || c == 'U' )return true;
         return false;
     }
-public:
     string reverseVowels(string s) {
-        int n = s.size();
-        int start = 0 ;
-        int end = n- 1;
-        while(start < end){
-            while(start < end && !isvowel(s[start]))start++;
-            while(start < end && !isvowel(s[end]))end--;
-            if(start < end){
-                swap(s[start] , s[end]);
-                start++;
-                end--;
-            }
+        int i = 0 , j = s.size() -1;
+        while( i < j){
+            while(i < j && !isvowel(s[i]))i++;
+            while(i < j && !isvowel(s[j]))j--;
+            if(i < j)
+                swap(s[i++] , s[j--]);
         }
         return s;
         
