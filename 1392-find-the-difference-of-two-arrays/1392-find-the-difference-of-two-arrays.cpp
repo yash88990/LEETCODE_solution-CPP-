@@ -1,26 +1,16 @@
-#include <vector>
-#include <unordered_set>
-
 class Solution {
 public:
-    std::vector<std::vector<int>> findDifference(std::vector<int>& nums1, std::vector<int>& nums2) {
-        std::unordered_set<int> set1(nums1.begin(), nums1.end());
-        std::unordered_set<int> set2(nums2.begin(), nums2.end());
-        
-        std::vector<int> difference1, difference2;
-        
-        for (int num : nums1) {
-            if (set2.find(num) == set2.end() && std::find(difference1.begin(), difference1.end(), num) == difference1.end()) {
-                difference1.push_back(num);
-            }
+    vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
+        unordered_set<int> set1(nums1.begin() , nums1.end());
+        unordered_set<int> set2(nums2.begin() , nums2.end());
+        vector<int>ans1 , ans2;
+        for(int num : nums1){
+            if(set2.find(num) == set2.end() && find(ans1.begin() , ans1.end() , num) == ans1.end())ans1.push_back(num);
         }
-        
-        for (int num : nums2) {
-            if (set1.find(num) == set1.end() && std::find(difference2.begin(), difference2.end(), num) == difference2.end()) {
-                difference2.push_back(num);
-            }
+        for(int num : nums2  ){
+            if(set1.find(num) == set1.end() && find(ans2.begin() , ans2.end() , num) == ans2.end())ans2.push_back(num);
         }
-        
-        return {difference1, difference2};
+        return {ans1 , ans2};
+
     }
 };
