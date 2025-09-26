@@ -1,15 +1,11 @@
-
 class Solution {
 public:
-    int largestAltitude(std::vector<int>& gain) {
-        int currentAltitude = 0;
-        int maxAltitude = 0;
-
-        for (int gainValue : gain) {
-            currentAltitude += gainValue;
-            maxAltitude = std::max(maxAltitude, currentAltitude);
+    int largestAltitude(vector<int>& gain) {
+        int curr = 0 , maxi = 0;
+        for(int num : gain){
+            curr += num;
+            maxi = max(maxi , curr);
         }
-
-        return maxAltitude;
+        return maxi;
     }
 };
