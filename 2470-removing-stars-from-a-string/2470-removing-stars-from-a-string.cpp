@@ -1,33 +1,26 @@
-#include <stack>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     string removeStars(string s) {
-        stack<char> stk;
-        
-        // Process each character in the string
-        for (char c : s) {
-            if (c == '*') {
-                if (!stk.empty()) {
-                    stk.pop();  // Remove the closest non-star character to the left
+        stack<int> stk;
+        for(char c : s){
+            if(c == '*'){
+                //pop
+                if(!stk.empty()){
+                    stk.pop();
                 }
-            } else {
-                stk.push(c);  // Retain non-star characters
+            }
+            else{
+                //push
+                stk.push(c);
             }
         }
-        
-        // Construct the resulting string from the stack
-        string result;
-        while (!stk.empty()) {
-            result += stk.top();
+        string ans = "";
+        while(!stk.empty()){
+            char ch = stk.top();
             stk.pop();
+            ans += ch;
         }
-        
-        // The characters are in reverse order, so reverse the result
-        reverse(result.begin(), result.end());
-        
-        return result;
+        reverse(ans.begin() , ans.end());
+        return ans;
     }
 };
