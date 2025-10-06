@@ -8,8 +8,7 @@ class Solution {
         //exclude
         solve(nums , output , index +  1 , ans);
         //include
-        int element = nums[index];
-        output.push_back(element);
+        output.push_back(nums[index]);
         solve(nums , output , index + 1 , ans);
 
     }
@@ -17,8 +16,8 @@ public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int>output;
-        int index = 0;
-        solve(nums , output , index , ans);
+        
+        solve(nums , output , 0 , ans);
         return ans;
     }
 };
