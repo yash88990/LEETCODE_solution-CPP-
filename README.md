@@ -636,6 +636,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2737-row-with-maximum-ones](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
@@ -1221,6 +1222,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2737-row-with-maximum-ones](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
