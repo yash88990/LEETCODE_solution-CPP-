@@ -563,6 +563,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1646-kth-missing-positive-number) |
@@ -1515,6 +1516,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1966-frequency-of-the-most-frequent-element) |
