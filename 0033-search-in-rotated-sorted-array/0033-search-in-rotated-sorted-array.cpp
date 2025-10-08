@@ -1,18 +1,17 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int s = 0 , e = nums.size() - 1;
-        while(s <= e){
-            int mid = s + ( e - s )/2;
-            if(nums[mid] == target)return mid;
-            //check which part is sorted
-            if(nums[s] <= nums[mid]){
-                //left part is sorted
-                if(target >= nums[s] && target < nums[mid] )e= mid -1;
-                else s = mid + 1;
-            }else{//right part is sorted
-                 if(target <= nums[e] && target > nums[mid])s= mid + 1;
-                 else e = mid - 1;
+        int s = 0 , e = nums.size()-1;
+        while(s <= e ){
+            int m = s + ( e - s)/2;
+            if(nums[m] == target)return m;
+            else if(nums[m] >= nums[s]){ //left part sorted
+                 if((target <= nums[m]) && (target >= nums[s]))e = m- 1;
+                 else s = m + 1 ;
+
+            }else{//right part sorted
+                 if((target >= nums[m] && nums[e] >= target ))s = m + 1 ;
+                 else e = m - 1;
 
             }
         }
