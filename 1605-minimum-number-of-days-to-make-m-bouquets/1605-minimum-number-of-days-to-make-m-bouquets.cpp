@@ -1,36 +1,50 @@
 class Solution {
 public:
-bool canMakeBouquetes(vector<int>&bloomDay, int m , int k , int day){
-    int flowers = 0 ;
-    int bouquetes = 0 ;
-    for(int bloom : bloomDay){
-        if(bloom <= day ){
-            flowers++;
-            if(flowers == k ){
-                bouquetes++;
-                flowers = 0;
+    // Helper function to check if we can make 'm' bouquets in 'day' days
+    bool canMakeBouquets(vector<int>& bloomDay, int m, int k, int day) {
+        int flowers = 0;     // count of consecutive bloomed flowers
+        int bouquets = 0;    // count of bouquets formed
+
+        for (int bloom : bloomDay) {
+            if (bloom <= day) {   // if this flower is bloomed
+                flowers++;
+                // if we have enough flowers for one bouquet
+                if (flowers == k) {
+                    bouquets++;
+                    flowers = 0;  // reset for next bouquet
+                }
+            } else {
+                flowers = 0;      // reset if flower not bloomed
             }
-        }else{
-            flowers = 0 ;
         }
-    }
-        return bouquetes >= m ;
+
+        return bouquets >= m;     // true if we can make required bouquets
     }
 
+    // Main function to find the minimum day
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int n = bloomDay.size() ;
-        if(static_cast < long long > (m) * k > n ) return -1 ;
-        int left = *min_element(bloomDay.begin(), bloomDay.end());
-        int right = *max_element(bloomDay.begin() , bloomDay.end() );
-        while(left <= right ){
-            int mid = left + ( right - left ) / 2 ;
-            if ( canMakeBouquetes(bloomDay , m , k , mid)){
-                right = mid -1 ;
+        int n = bloomDay.size();
 
-            }else{
-                left = mid + 1 ;
+        // If total flowers are less than needed
+        if ((long long)m * k > n) return -1;
+
+        // Range of days (minimum to maximum bloom day)
+        int left = *min_element(bloomDay.begin(), bloomDay.end());
+        int right = *max_element(bloomDay.begin(), bloomDay.end());
+        int ans = -1;
+
+        // Binary Search on days
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (canMakeBouquets(bloomDay, m, k, mid)) {
+                ans = mid;       // possible answer
+                right = mid - 1; // try smaller day
+            } else {
+                left = mid + 1;  // need more days
             }
         }
-        return left ;
+
+        return ans;
     }
 };
