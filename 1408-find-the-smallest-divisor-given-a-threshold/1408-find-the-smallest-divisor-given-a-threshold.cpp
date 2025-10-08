@@ -1,26 +1,21 @@
 class Solution {
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int left = 1;
-        int right = *max_element(nums.begin(), nums.end());
-        int answer = right;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
+        int s = 1 , e = *max_element(nums.begin() , nums.end());
+        int ans = 0;
+        if( nums.size() == threshold)return e;
+        while(s <= e){
+            int m = s + ( e - s )/2;
             int total = 0;
-            for (int num : nums) {
-                total += (num + mid - 1) / mid; // Equivalent to ceil(num / mid)
+            for(int num : nums){
+                total += (num + m -1 )/ m;
             }
-
-            if (total <= threshold) {
-                answer = mid;
-                right = mid - 1; // Try smaller divisor
-            } else {
-                left = mid + 1; // Try larger divisor
-            }
+            if(total <= threshold){
+                ans = m;
+                e = m - 1;
+            }else s = m + 1;
         }
 
-        return answer;
+        return ans ;
     }
 };
