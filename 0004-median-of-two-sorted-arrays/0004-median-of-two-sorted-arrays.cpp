@@ -6,7 +6,7 @@ public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         // Step 1: Merge both arrays
         vector<int> merged;
-        merged.reserve(nums1.size() + nums2.size());
+        // merged.reserve(nums1.size() + nums2.size());
         merged.insert(merged.end(), nums1.begin(), nums1.end());
         merged.insert(merged.end(), nums2.begin(), nums2.end());
 
