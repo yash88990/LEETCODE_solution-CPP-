@@ -10,22 +10,20 @@
  * };
  */
 class Solution {
-private:
-    void preorder(TreeNode* root , vector<int>&result){
-        //base case
-        if(root == NULL)return ;
-        //node left right
-        //1. node (insert in ans)
-        result.push_back(root->val);
-        //2. go to the left side
-        preorder(root->left , result);
-        //3. go to the right side
-        preorder(root->right , result);
-    }
 public:
+    void solve(TreeNode* root , vector<int>&ans){
+        //base case 
+        if(!root)return;
+        //node
+        ans.push_back(root->val);
+        //left
+        solve(root->left ,ans);
+        //right
+        solve(root->right , ans);
+    }
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>result;
-        preorder(root , result);
-        return result;
+        vector<int>ans;
+        solve(root , ans);
+        return ans;
     }
 };
