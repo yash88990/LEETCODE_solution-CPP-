@@ -10,21 +10,21 @@
  * };
  */
 class Solution {
-private:
-     void postorder(TreeNode* root , vector<int>&result){
-        //base case
-        if(!root)return;
-        // left right node
-        postorder(root->left , result);
-        postorder(root->right , result);
-        result.push_back(root->val);
-     }
-  
 public:
-    vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> result;
-        postorder(root , result);
-        return result;
+      void solve(TreeNode* root , vector<int>&ans){
+        //base case 
+        if(!root)return;
         
+        //left
+        solve(root->left ,ans);
+        //right
+        solve(root->right , ans);
+        //node
+        ans.push_back(root->val);
+    }
+    vector<int> postorderTraversal(TreeNode* root) {
+        vector<int>ans;
+        solve(root , ans);
+        return ans;
     }
 };
