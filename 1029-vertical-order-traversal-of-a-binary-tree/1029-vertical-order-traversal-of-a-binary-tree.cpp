@@ -1,37 +1,43 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        // Map: {column -> {row -> multiset of values (sorted automatically)}}
-        map<int, map<int, multiset<int>>> nodes;
-        queue<pair<TreeNode*, pair<int, int>>> q; // (node, (column, row))
-        
-        q.push({root, {0, 0}}); // Start with root at (0,0)
-        
-        while (!q.empty()) {
-            auto [node, pos] = q.front();
+        vector<vector<int>>ans;
+                 //  node           hd   lvl
+        queue<pair<TreeNode* , pair<int,int>>> q;
+
+        // hd         lvl      nodes
+        map<int , map<int, vector<int>>> nodes;
+        q.push(make_pair(root , make_pair(0 , 0)));
+        while(!q.empty()){
+            pair<TreeNode*,pair<int,int>> temp = q.front();
             q.pop();
-            int x = pos.first, y = pos.second;
-            
-            nodes[x][y].insert(node->val); // Insert the node into the map
-            
-            if (node->left) 
-                q.push({node->left, {x - 1, y + 1}});
-            if (node->right) 
-                q.push({node->right, {x + 1, y + 1}});
+            TreeNode* frontnode = temp.first;
+            int hd = temp.second.first;
+            int lvl =temp.second.second;
+            nodes[hd][lvl].push_back(frontnode->val);
+            if(frontnode->left)q.push(make_pair(frontnode->left , make_pair(hd - 1 , lvl + 1)));
+            if(frontnode->right)q.push(make_pair(frontnode->right, make_pair(hd +1 , lvl + 1)));
         }
-        
-        vector<vector<int>> result;
-        
-        // Iterate through columns
-        for (auto& [col, rowMap] : nodes) {
-            vector<int> colVals;
-            // Iterate through rows in the column
-            for (auto& [row, values] : rowMap) {
-                colVals.insert(colVals.end(), values.begin(), values.end());
+        for(auto i : nodes){
+            vector<int>col;
+            for(auto j : i.second){
+                vector<int>temp = j.second;
+                sort(temp.begin() , temp.end());
+                col.insert(col.end() , temp.begin() , temp.end());
             }
-            result.push_back(colVals);
+            ans.push_back(col);
         }
-        
-        return result;
+        return ans;
     }
 };
