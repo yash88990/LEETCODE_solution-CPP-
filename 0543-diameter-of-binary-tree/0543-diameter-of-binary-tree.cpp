@@ -11,24 +11,16 @@
  */
 class Solution {
 public:
-pair<int , int>  solve(TreeNode* root){
-     if(root == NULL){
-        pair<int,int> p = make_pair(0,0);
-        return p;
-     }
-     pair<int,int> left = solve(root->left);
-     pair<int,int> right = solve(root->right);
-
-        int ans1 = left.first;
-        int ans2 = right.first;
-        int ans3 = left.second + right.second ;
-       pair<int,int> finalans;
-       finalans.first = max(ans1 , max(ans2 , ans3));
-       finalans.second = max(left.second , right.second) + 1 ;
-       return finalans;
+int h(TreeNode* root){
+    if(!root)return 0;
+    return 1 + max(h(root->left) , h(root->right));
 }
     int diameterOfBinaryTree(TreeNode* root) {
-        return solve(root).first;
-       
+        if(!root)return 0;
+        int case1 = diameterOfBinaryTree(root->left);
+        int case2 = diameterOfBinaryTree(root->right);
+        int case3 = h(root->left) + h(root->right);
+        int ans = max(case1 , max(case2 , case3));
+        return ans;
     }
 };
