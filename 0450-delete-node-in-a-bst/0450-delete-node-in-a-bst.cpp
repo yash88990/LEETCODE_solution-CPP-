@@ -12,33 +12,38 @@
 class Solution {
 public:
     TreeNode* findmin(TreeNode* root){
-    if(!root)return NULL;
     while(root->left)root = root->left;
     return root;
 }
 
-    TreeNode* deleteNode(TreeNode* root, int key) {
-         if(!root)return root;
-    if(key < root->val){
-        root->left = deleteNode(root->left , key);
-    }
-    else if(key > root->val){
-        root->right = deleteNode(root->right , key);
+
+    TreeNode* deleteNode(TreeNode* root, int val) {
+        if(!root)return root;
+    //searching
+    if(val < root->val){
+        root->left = deleteNode(root->left , val);
+        
+    }else if(val  > root->val){
+        root->right = deleteNode(root->right , val);
     }else{
-        //mil gaya  with single child
+        //mil gaya 
+        //check for their child
+        //only one child
         if(!root->left){
             TreeNode* temp = root->right;
-            delete root ;
-            return temp;
-        }else if(!root->right){
-            TreeNode* temp = root->left;
             delete root;
             return temp;
+        }else if(!root->right){
+            TreeNode* temp = root->left ;
+            delete root ;
+            return temp;
+        }else{
+            //have 2 child
+            TreeNode* temp = findmin(root->right);
+            root->val = temp->val;
+            root->right = deleteNode(root->right ,temp->val );
+            
         }
-        //with double child
-        TreeNode* temp = findmin(root->right);
-        root->val = temp->val;
-        root->right = deleteNode(root->right , temp->val);
     }
     return root;
     }
