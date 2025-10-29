@@ -748,6 +748,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -1583,6 +1584,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2792-neighboring-bitwise-xor](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
