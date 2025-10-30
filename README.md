@@ -570,6 +570,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1656-count-good-triplets) |
@@ -923,6 +924,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -953,6 +955,7 @@
 | [0797-rabbits-in-forest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1502-construct-k-palindrome-strings) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1355,6 +1358,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1647,6 +1651,7 @@
 | [0937-online-stock-span](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Eulerian Circuit
