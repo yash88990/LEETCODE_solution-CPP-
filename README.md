@@ -618,6 +618,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
@@ -800,6 +801,7 @@
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2470-removing-stars-from-a-string) |
@@ -1231,6 +1233,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
