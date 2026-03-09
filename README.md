@@ -1377,6 +1377,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2562-count-ways-to-build-good-strings) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1623,6 +1624,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2465-shifting-letters-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
