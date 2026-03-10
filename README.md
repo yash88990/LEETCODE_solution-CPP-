@@ -515,6 +515,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0724-find-pivot-index) |
@@ -1536,6 +1537,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0704-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
