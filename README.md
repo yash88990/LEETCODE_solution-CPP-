@@ -703,6 +703,7 @@
 | [0328-odd-even-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
@@ -1498,6 +1499,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
