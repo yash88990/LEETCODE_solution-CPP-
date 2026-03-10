@@ -881,6 +881,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1651-shuffle-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1720-crawler-log-folder](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -1021,6 +1022,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1093,6 +1095,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1336,6 +1339,7 @@
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
