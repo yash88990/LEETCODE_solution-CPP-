@@ -1181,6 +1181,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1232,6 +1233,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1590,6 +1592,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
