@@ -546,6 +546,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1025-minimum-cost-for-tickets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
@@ -1606,6 +1607,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
