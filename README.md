@@ -1671,6 +1671,7 @@
 | [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1009-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
