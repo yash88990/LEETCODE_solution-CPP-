@@ -893,6 +893,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1502-construct-k-palindrome-strings) |
@@ -1660,6 +1661,7 @@
 | [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1160-letter-tile-possibilities) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
