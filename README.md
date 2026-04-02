@@ -685,6 +685,7 @@
 | [3321-type-of-triangle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1304,6 +1305,7 @@
 | [2737-row-with-maximum-ones](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
@@ -1444,6 +1446,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
