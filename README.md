@@ -534,6 +534,7 @@
 | [0792-binary-search](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0890-lemonade-change) |
@@ -818,6 +819,7 @@
 | [0258-add-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1803-average-waiting-time) |
@@ -1100,6 +1102,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0797-rabbits-in-forest) |
+| [0874-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
