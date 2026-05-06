@@ -604,6 +604,7 @@
 | [1833-find-the-highest-altitude](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1861-rotating-the-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1289,6 +1290,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1861-rotating-the-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1876-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1901-find-a-peak-element-ii) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
@@ -1536,6 +1538,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1768-merge-strings-alternately) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1861-rotating-the-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
