@@ -564,6 +564,7 @@
 | [1325-path-with-maximum-probability](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1340-jump-game-v) |
 | [1364-tuple-with-same-product](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
@@ -1055,6 +1056,7 @@
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1333-sort-the-jumbled-numbers) |
+| [1340-jump-game-v](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1340-jump-game-v) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -1438,6 +1440,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1250-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
