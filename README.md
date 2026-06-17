@@ -855,6 +855,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3447-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3614-process-string-with-special-operations-ii) |
 ## String
 |  |
 | ------- |
@@ -954,6 +955,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
