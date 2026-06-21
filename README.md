@@ -605,6 +605,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1022,6 +1023,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1073,6 +1075,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1840-maximum-building-height) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1406,6 +1409,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1777-determine-if-two-strings-are-close) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1833-maximum-ice-cream-bars) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
