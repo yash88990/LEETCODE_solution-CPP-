@@ -706,6 +706,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
@@ -1185,6 +1186,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1350,6 +1352,7 @@
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1385,6 +1388,7 @@
 | [0148-sort-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1753,6 +1757,7 @@
 | [3639-zero-array-transformation-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1773,6 +1778,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
