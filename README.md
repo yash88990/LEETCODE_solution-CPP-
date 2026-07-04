@@ -360,6 +360,7 @@
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2793-count-the-number-of-complete-components) |
@@ -406,6 +407,7 @@
 | [1876-map-of-highest-peak](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1871,4 +1873,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
