@@ -795,6 +795,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -967,6 +968,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1763,6 +1765,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
 | ------- |
