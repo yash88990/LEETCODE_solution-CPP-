@@ -562,6 +562,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1207-unique-number-of-occurrences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1301-number-of-paths-with-max-score) |
@@ -838,6 +839,7 @@
 | [0874-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1260-shift-2d-grid) |
 | [1803-average-waiting-time](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1315,6 +1317,7 @@
 | [0921-spiral-matrix-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1036-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
