@@ -521,6 +521,7 @@
 | [0435-non-overlapping-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
@@ -762,6 +763,7 @@
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
@@ -813,6 +815,7 @@
 | [0234-palindrome-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -1454,6 +1457,7 @@
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1894,4 +1898,8 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-count-the-number-of-complete-components) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
