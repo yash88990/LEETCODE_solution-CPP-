@@ -780,6 +780,7 @@
 | [1500-count-largest-group](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
@@ -944,6 +945,7 @@
 | [1894-merge-strings-alternately](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1927-sum-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1040,6 +1042,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1927-sum-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-maximum-matrix-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1903,4 +1906,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
