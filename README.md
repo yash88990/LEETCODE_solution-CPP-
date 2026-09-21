@@ -1907,4 +1907,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
 | [1927-sum-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1927-sum-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
