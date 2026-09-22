@@ -1,23 +1,36 @@
 class Solution {
-    private:
-    void solve(vector<int> nums , vector<int> output , int index , vector<vector<int>> &ans){
-        if(index >= nums.size()){
-            ans.push_back(output);
-            return ;
-        }
-        //exclude
-        solve(nums , output , index +  1 , ans);
-        //include
-        output.push_back(nums[index]);
-        solve(nums , output , index + 1 , ans);
-
-    }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int>output;
-        
-        solve(nums , output , 0 , ans);
-        return ans;
+
+        // Start with one empty subset
+        vector<vector<int>> result = {{}};
+
+        // Take each number one by one
+        for (int num : nums) {
+
+            // Store the new subsets we create
+            vector<vector<int>> next;
+
+            // Go through every existing subset
+            for (auto subset : result) {
+
+                // Make a copy of the current subset
+                vector<int> temp = subset;
+
+                // Add the current number to the subset
+                temp.push_back(num);
+
+                // Store the new subset
+                next.push_back(temp);
+            }
+
+            // Add all new subsets to the existing result
+            for (auto subset : next) {
+                result.push_back(subset);
+            }
+        }
+
+        // Return all possible subsets
+        return result;
     }
 };
