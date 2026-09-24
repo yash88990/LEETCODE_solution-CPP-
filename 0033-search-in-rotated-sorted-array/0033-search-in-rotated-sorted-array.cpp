@@ -1,20 +1,19 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int s = 0 , e = nums.size()-1;
-        while(s <= e){
-            int m = s + ( e - s )/2;
-            if(nums[m] == target)return m;
-            //which part is sorted
-            if(nums[s] <= nums[m]){ // left part sorted hai
-               if(target >= nums[s] && target <= nums[m]){
-                 e = m-1;
-               }else s = m + 1;
-
-            }else{// right part sorted hai
-               if(target >= nums[m] && target <= nums[e] ){
-                s = m + 1;
-               }else e = m- 1;
+        int start = 0 , end = nums.size()-1 ;
+        while(start <= end){
+            int mid = start + ( end - start)/2;
+            if(nums[mid] == target)return mid;
+            else if(nums[start] <= nums[mid]){//left part is sorted
+                //is target lies in this part
+                if(target >= nums[start] && target <= nums[mid]){
+                    end = mid - 1 ;
+                }else start = mid + 1 ;
+            }else{//right part is sorted
+                 if(target >= nums[mid] && target <= nums[end]){
+                    start = mid + 1 ;
+                 }else end = mid - 1 ;
 
             }
         }
