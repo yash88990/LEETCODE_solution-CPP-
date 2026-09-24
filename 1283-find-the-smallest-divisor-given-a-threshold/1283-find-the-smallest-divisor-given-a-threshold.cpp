@@ -1,16 +1,18 @@
 class Solution {
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int s = 1, e = *max_element(nums.begin() , nums.end()) , ans = -1;
-        while(s <= e ){
-            int m = s + ( e - s )/2;
+        int start = 1 , end = *max_element(nums.begin() , nums.end());
+        int ans = -1;
+        while(start <= end){
+            int mid = start + ( end - start )/ 2;
             int total = 0;
-            for(int num : nums)total += (num + m - 1)/m;
+            for(int num : nums){
+                total += ceil(double(num) / mid);
+            }
             if(total <= threshold){
-                ans = m;
-                e = m - 1;
-            }else s = m + 1;
-
+                ans = mid;
+                end = mid - 1;
+            }else start = mid + 1 ;
         }
         return ans;
     }
