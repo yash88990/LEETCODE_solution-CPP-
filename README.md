@@ -1911,4 +1911,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
