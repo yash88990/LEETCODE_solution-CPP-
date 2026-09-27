@@ -1918,4 +1918,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0069-sqrtx) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
