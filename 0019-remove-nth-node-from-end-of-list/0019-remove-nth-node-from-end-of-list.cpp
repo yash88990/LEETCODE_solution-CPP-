@@ -1,33 +1,43 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        // Step 1: Count total nodes
-        int count = 0;
-        ListNode* temp = head;
-        while (temp) {
-            count++;
-            temp = temp->next;
+        
+        if(!head->next)return NULL;
+        int size=0;
+        ListNode* curr=head;
+        while(curr){
+            curr=curr->next;
+            size++;
         }
+        int pos = size - n;
+        if(pos == 0){
+            ListNode* temp = head;
+            head = head->next;
+            temp->next=NULL;
+            delete temp;
+            return head;
 
-        // Special case: if the node to delete is the head
-        if (n == count) {
-            ListNode* newHead = head->next;
-            delete head;
-            return newHead;
         }
-
-        // Step 2: Find the (count - n)th node (node just before the one to delete)
-        int steps = count - n;
-        temp = head;
-        for (int i = 1; i < steps; ++i) {
-            temp = temp->next;
+        int cnt = 0;
+        curr=head;
+        while(curr && cnt < pos - 1 ){
+            cnt++;
+            curr=curr->next;
         }
-
-        // Step 3: Delete the node
-        ListNode* nodeToDelete = temp->next;
-        temp->next = temp->next->next;
-        delete nodeToDelete;
-
+        ListNode* temp = curr->next;
+        curr->next = temp->next;
+        temp->next=NULL;
+        delete temp;
         return head;
     }
 };
