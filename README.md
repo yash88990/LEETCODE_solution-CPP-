@@ -1932,4 +1932,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1071-greatest-common-divisor-of-strings) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
