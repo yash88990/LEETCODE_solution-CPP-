@@ -9,28 +9,19 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
-    
-private:
-    int count;  
-    int result ; 
-     void inOrder(TreeNode* node, int k) {
-        if (node == nullptr) return;
-        inOrder(node->left, k);  // Visit left subtree
-        count++;  // Visit this node
-        if (count == k) {
-            result = node->val;
-            return;
-        }
-        inOrder(node->right, k);  // Visit right subtree
-    }
 public:
-    int kthSmallest(TreeNode* root, int k) {
-        count = 0;  
-        result = -1; 
-        inOrder(root, k);  
-        return result;
+    void inordertraversal(TreeNode* root, vector<int>&inorder ){
+        if(!root)return ;
+        inordertraversal(root->left , inorder);
+        inorder.push_back(root->val);
+        inordertraversal(root->right, inorder);
     }
+    int kthSmallest(TreeNode* root, int k) {
+       vector<int>inorder;
+       inordertraversal(root , inorder);
+       int ans = inorder[k-1];
+       return ans;
 
+    }
 };
