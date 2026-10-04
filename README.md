@@ -922,6 +922,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1009,6 +1010,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1045,6 +1047,7 @@
 | [0605-can-place-flowers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1489,6 +1492,7 @@
 | [0509-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0747-min-cost-climbing-stairs) |
@@ -1968,4 +1972,5 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
