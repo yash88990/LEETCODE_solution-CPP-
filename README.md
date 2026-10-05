@@ -925,6 +925,7 @@
 | [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0856-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0953-reverse-only-letters) |
@@ -1014,6 +1015,7 @@
 | [0735-asteroid-collision](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0856-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1973,4 +1975,5 @@
 | [0022-generate-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
