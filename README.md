@@ -927,6 +927,7 @@
 | [0812-rotate-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0812-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0856-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0953-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -1016,6 +1017,7 @@
 | [0739-daily-temperatures](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1055,6 +1057,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1976,4 +1979,5 @@
 | [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
