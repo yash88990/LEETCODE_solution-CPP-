@@ -3,7 +3,6 @@ public:
     int compress(vector<char>& s) {
         int n = s.size();
         int index = 0;
-
         for(int i = 0 ; i < n ; i++){
             char ch = s[i];
             int cnt = 0 ;
@@ -11,7 +10,6 @@ public:
                 cnt++;
                 i++;
             }
-
             if(cnt == 1)s[index++] = ch;
             else{
                 s[index++] = ch;
@@ -22,6 +20,5 @@ public:
         }
         s.resize(index);
         return index;
-
     }
 };
