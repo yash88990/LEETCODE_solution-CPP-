@@ -1,38 +1,31 @@
-#include <string>
-#include <stack>
-
-using namespace std;
-
 class Solution {
 public:
     string decodeString(string s) {
-        stack<int> counts;
+        stack<int>cnt;
         stack<string> strings;
+        int count = 0 ;
         string result;
-        int count = 0;
-        
-        for (char c : s) {
-            if (isdigit(c)) {
-                count = count * 10 + (c - '0'); // Accumulate the count
-            } else if (c == '[') {
-                counts.push(count);
+        for(char c : s){
+            if(isdigit(c)){
+                count = count * 10 + (c - '0');
+            }else if(c == '['){
+                cnt.push(count);
                 strings.push(result);
-                result = ""; // Reset result for the new nested string
-                count = 0; // Reset count
-            } else if (c == ']') {
-                int repeatCount = counts.top();
-                counts.pop();
-                string repeatedString = result;
-                for (int i = 1; i < repeatCount; ++i) {
-                    repeatedString += result;
+                count = 0;
+                result ="";
+            }else if(c == ']'){
+                int k = cnt.top();
+                cnt.pop();
+                string temp = result;
+                for(int i = 1 ; i < k ; i++){
+                    temp += result;
                 }
-                result = strings.top() + repeatedString;
+                result = strings.top() + temp;
                 strings.pop();
-            } else {
-                result += c; // Accumulate characters
+            }else{
+                result += c;
             }
         }
-        
         return result;
     }
 };
