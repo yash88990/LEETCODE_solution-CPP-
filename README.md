@@ -1968,6 +1968,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0543-diameter-of-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Tournament Sort
 |  |
 | ------- |
