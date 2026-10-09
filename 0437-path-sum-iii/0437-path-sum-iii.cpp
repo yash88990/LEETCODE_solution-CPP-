@@ -1,29 +1,30 @@
-
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int pathSum(TreeNode* root, int targetSum) {
-        unordered_map<long long, int> prefixSumCount;
-        prefixSumCount[0] = 1; // Initialize with sum 0 to account for paths from the root
-        return dfs(root, 0, targetSum, prefixSumCount);
+    int dfs(TreeNode* root, int targetSum, unordered_map<long long,int> &prefixsum  , long long currsum){
+        if(!root)return 0;
+        currsum += root->val;
+        int cnt = prefixsum[currsum - targetSum];
+         prefixsum[currsum]++;
+        cnt += dfs(root->left , targetSum , prefixsum , currsum);
+        cnt += dfs(root->right , targetSum , prefixsum , currsum);
+        prefixsum[currsum]--;
+        return cnt;
+
     }
-    
-private:
-    int dfs(TreeNode* node, long long currentSum, int targetSum, unordered_map<long long, int>& prefixSumCount) {
-        if (node == nullptr) {
-            return 0;
-        }
-        
-        currentSum += node->val;
-        int pathCount = prefixSumCount[currentSum - targetSum]; // Check if there is a prefix sum that makes up the target sum
-        
-        prefixSumCount[currentSum]++; // Update the prefix sum count for the current path
-        
-        // Recur for left and right subtrees
-        pathCount += dfs(node->left, currentSum, targetSum, prefixSumCount);
-        pathCount += dfs(node->right, currentSum, targetSum, prefixSumCount);
-        
-        prefixSumCount[currentSum]--; // Remove the current sum from the map to backtrack
-        
-        return pathCount;
+    int pathSum(TreeNode* root, int targetSum) {
+        unordered_map<long long,int>prefixsum;
+        prefixsum[0]=1;
+        return dfs(root , targetSum , prefixsum , 0);
     }
 };
