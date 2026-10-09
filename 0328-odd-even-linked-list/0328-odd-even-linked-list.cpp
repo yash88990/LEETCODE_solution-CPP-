@@ -12,14 +12,27 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(!head || !head->next || !head->next->next)return head;
-        ListNode* odd = head , *even = head->next , *evenhead=even;
+        ListNode* even = head->next , *odd = head ;
+        ListNode* evenhead = even;
         while(even && even->next){
-            odd->next=even->next;
-            odd=odd->next;
-            even->next=odd->next;
-            even=even->next;
+            odd->next = even->next;
+            odd = odd->next;
+            even->next = odd->next;
+            even = even->next;
         }
-        odd->next=evenhead;
+        odd->next = evenhead;
         return head;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
