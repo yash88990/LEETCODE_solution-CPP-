@@ -1945,11 +1945,13 @@
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -2000,4 +2002,12 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
