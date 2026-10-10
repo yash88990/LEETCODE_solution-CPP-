@@ -1,65 +1,42 @@
-#include <vector>
-#include <unordered_map>
-#include <unordered_set>
-#include <string>
-
 class Solution {
 public:
-    std::vector<double> calcEquation(std::vector<std::vector<std::string>>& equations, 
-                                     std::vector<double>& values, 
-                                     std::vector<std::vector<std::string>>& queries) {
-        // Construct the graph
-        std::unordered_map<std::string, std::unordered_map<std::string, double>> graph;
-        for (int i = 0; i < equations.size(); ++i) {
-            const std::string& A = equations[i][0];
-            const std::string& B = equations[i][1];
-            double value = values[i];
-            graph[A][B] = value;
-            graph[B][A] = 1.0 / value;
-        }
-        
-        std::vector<double> results;
-        
-        // Process each query
-        for (const auto& query : queries) {
-            const std::string& start = query[0];
-            const std::string& end = query[1];
-            std::unordered_set<std::string> visited;
-            double result = dfs(graph, start, end, visited);
-            results.push_back(result);
-        }
-        
-        return results;
-    }
-    
-    double dfs(std::unordered_map<std::string, std::unordered_map<std::string, double>>& graph, 
-               const std::string& start, 
-               const std::string& end, 
-               std::unordered_set<std::string>& visited) {
-        // If start or end node is not in the graph, return -1.0
-        if (graph.find(start) == graph.end() || graph.find(end) == graph.end())
-            return -1.0;
-        
-        // If start and end nodes are the same, return 1.0
-        if (start == end)
-            return 1.0;
-        
-        // Mark the start node as visited
-        visited.insert(start);
-        
-        // Iterate through the neighbors of the start node
-        for (const auto& neighbor : graph[start]) {
-            const std::string& next = neighbor.first;
-            // If the neighbor has not been visited, recursively search for the end node
-            if (visited.find(next) == visited.end()) {
-                double result = dfs(graph, next, end, visited);
-                // If a valid path is found, return the product of edge weights
-                if (result != -1.0)
-                    return result * neighbor.second;
+    double dfs(string curr , string target , unordered_map<string , unordered_map<string , double>> graph , unordered_set<string>vis ){
+        if(curr == target)return 1.0;
+        vis.insert(curr);
+        for(auto &i : graph[curr] ){
+            string nextnode = i.first;
+            double weight = i.second;
+            if(vis.find(nextnode) == vis.end()){
+                double ans = dfs(nextnode , target , graph , vis);
+                if(ans != -1)return weight * ans;
             }
         }
-        
-        // If no valid path is found, return -1.0
         return -1.0;
+
+    }
+    vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
+        //step 1 :- build the graph
+        unordered_map<string , unordered_map<string , double>> graph;
+        for(int i = 0 ; i < equations.size() ; i++){
+            string u = equations[i][0];
+            string v = equations[i][1];
+            double val = values[i];
+            graph[u][v] = val;
+            graph[v][u] =  1.0 / val;
+        }
+        //step 2 :- call dfs - process each queries
+        vector<double> result;
+        for(auto &query : queries){
+            string start = query[0];
+            string end = query[1];
+            if(graph.find(start) == graph.end() || graph.find(end) == graph.end())result.push_back(-1.0);
+            else if(start == end)result.push_back(1.0);
+            else{
+                unordered_set<string>vis;
+                double res = dfs(start , end , graph , vis);
+                result.push_back(res);
+            }
+        }
+        return result;
     }
 };
