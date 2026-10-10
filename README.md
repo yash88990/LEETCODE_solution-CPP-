@@ -338,6 +338,7 @@
 | [0684-redundant-connection](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0820-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0841-keys-and-rooms) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0871-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0872-leaf-similar-trees) |
@@ -388,6 +389,7 @@
 | [0684-redundant-connection](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0820-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0841-keys-and-rooms) |
 | [0854-making-a-large-island](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1941,6 +1943,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-count-the-number-of-complete-components) |
 ## Game Theory
