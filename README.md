@@ -410,6 +410,7 @@
 | [1558-course-schedule-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1876-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -629,6 +630,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1901-find-a-peak-element-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1917-maximum-average-pass-ratio) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1367,6 +1369,7 @@
 | [1861-rotating-the-box](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1876-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2035-count-sub-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2047-find-a-peak-element-ii) |
