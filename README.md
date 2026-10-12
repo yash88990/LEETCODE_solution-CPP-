@@ -671,6 +671,7 @@
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2465-shifting-letters-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -883,6 +884,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2390-removing-stars-from-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2470-removing-stars-from-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1439,6 +1441,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2542-maximum-subsequence-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2542-maximum-subsequence-score) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1657,6 +1660,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2551-apply-operations-to-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
