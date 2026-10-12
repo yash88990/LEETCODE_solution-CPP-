@@ -1218,6 +1218,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2352-equal-row-and-column-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2428-equal-row-and-column-pairs) |
@@ -1432,6 +1433,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1689,6 +1691,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2069-walking-robot-simulation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2069-walking-robot-simulation-ii) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
@@ -1864,6 +1867,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2868-continuous-subarrays) |
