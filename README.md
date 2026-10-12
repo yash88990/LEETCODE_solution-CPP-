@@ -696,6 +696,7 @@
 | [2846-robot-collisions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2868-continuous-subarrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1085,6 +1086,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2681-put-marbles-in-bags) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1228,6 +1230,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1800,6 +1803,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2792-neighboring-bitwise-xor](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
