@@ -674,6 +674,7 @@
 | [2465-shifting-letters-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2542-maximum-subsequence-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2542-maximum-subsequence-score) |
 | [2551-apply-operations-to-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2553-separate-the-digits-in-an-array) |
@@ -1084,6 +1085,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2542-maximum-subsequence-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2542-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2681-put-marbles-in-bags) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1137,6 +1139,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2542-maximum-subsequence-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2542-maximum-subsequence-score) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2681-put-marbles-in-bags) |
@@ -1437,6 +1440,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2542-maximum-subsequence-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2542-maximum-subsequence-score) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2681-put-marbles-in-bags) |
