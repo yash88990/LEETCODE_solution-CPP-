@@ -1,57 +1,59 @@
-#include <string>
-
-using namespace std;
-
-class TrieNode {
+class TrieNode{
 public:
     TrieNode* children[26];
-    bool isEnd;
-    
-    TrieNode() {
-        for (int i = 0; i < 26; ++i)
-            children[i] = nullptr;
-        isEnd = false;
+    bool isend;
+    TrieNode(){
+        isend = false;
+        for(int i = 0 ; i < 26 ; i++)children[i] = nullptr;
     }
 };
 
+
+
 class Trie {
-public:
     TrieNode* root;
-    
+public:
     Trie() {
         root = new TrieNode();
     }
     
     void insert(string word) {
-        TrieNode* node = root;
-        for (char c : word) {
-            int idx = c - 'a';
-            if (!node->children[idx])
-                node->children[idx] = new TrieNode();
-            node = node->children[idx];
+        TrieNode* curr = root;
+        for(char ch : word){
+            int index = ch - 'a';
+            if(curr->children[index] == NULL){
+                curr->children[index] = new TrieNode();
+            }
+            curr = curr->children[index];
         }
-        node->isEnd = true;
+        curr->isend = true;
     }
     
     bool search(string word) {
-        TrieNode* node = root;
-        for (char c : word) {
-            int idx = c - 'a';
-            if (!node->children[idx])
-                return false;
-            node = node->children[idx];
+        TrieNode* curr = root;
+        for(char ch : word){
+            int index = ch - 'a';
+            if(curr->children[index] == NULL)return false;
+            curr = curr->children[index];
         }
-        return node->isEnd;
+        return curr->isend;
     }
     
     bool startsWith(string prefix) {
-        TrieNode* node = root;
-        for (char c : prefix) {
-            int idx = c - 'a';
-            if (!node->children[idx])
-                return false;
-            node = node->children[idx];
+        TrieNode* curr = root;
+        for(char ch : prefix){
+            int index = ch - 'a';
+            if(curr->children[index] == NULL)return false;
+            curr = curr->children[index];
         }
         return true;
     }
 };
+
+/**
+ * Your Trie object will be instantiated and called as such:
+ * Trie* obj = new Trie();
+ * obj->insert(word);
+ * bool param_2 = obj->search(word);
+ * bool param_3 = obj->startsWith(prefix);
+ */
