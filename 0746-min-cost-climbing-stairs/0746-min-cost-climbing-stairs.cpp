@@ -1,23 +1,16 @@
 class Solution {
 public:
-    int solve(vector<int>&cost , int i, vector<int>&dp){
-        if(i < 0)return 0;
-        if(i <= 1)return cost[i];
-        //step 3 ;- if ans then return
-        if(dp[i] != -1)return dp[i];
-        //step 2 - save the ans
-        return dp[i] = cost[i] + min(solve(cost , i-1,dp) , solve(cost, i-2,dp));
+    int solve(vector<int>&cost , vector<int>&dp , int n){
+        if(n == 0)return cost[0];
+        if(n == 1)return cost[1];
 
+        if(dp[n] != -1)return dp[n];
+
+        return dp[n] = cost[n] + min(solve(cost , dp , n-1) , solve(cost , dp , n-2));
     }
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
-        if(n == 0)return 0;
-        if(n ==  1)return cost[0];
-        //step 1 
-        vector<int>dp(n+1 , -1);
-        return min(solve(cost , n-1 , dp) , solve(cost , n-2 , dp));
-        
-
-
+        vector<int> dp(n , -1);
+        return min(solve(cost , dp , n-1) , solve(cost , dp , n-2));
     }
 };
