@@ -730,6 +730,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
@@ -1098,6 +1099,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -1156,6 +1158,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
