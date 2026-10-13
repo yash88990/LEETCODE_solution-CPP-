@@ -1,12 +1,15 @@
 class Solution {
 public:
+    int solve(vector<int>&nums , vector<int>&dp , int i){
+        if(i >= nums.size())return 0;
+        if(dp[i] != -1)return dp[i];
+        int rob = nums[i] + solve(nums  , dp , i+2);
+        int skip = solve(nums , dp , i+1);
+        return dp[i] = max(rob , skip);
+    }
     int rob(vector<int>& nums) {
-        int prev1 = 0, prev2 = 0 , curr;
-        for(int num : nums){
-            curr = max(prev1 , prev2 + num);
-            prev2 = prev1 ;
-            prev1 = curr;
-        }
-        return curr;
+        int n = nums.size();
+        vector<int>dp(n,-1);
+        return solve(nums , dp , 0);
     }
 };
