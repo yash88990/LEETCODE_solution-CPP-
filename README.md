@@ -574,6 +574,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1301-number-of-paths-with-max-score) |
@@ -955,6 +956,7 @@
 | [1170-shortest-common-supersequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1268-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1268-search-suggestions-system) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1130,6 +1132,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1268-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1268-search-suggestions-system) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1340-jump-game-v](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1340-jump-game-v) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
@@ -1440,6 +1443,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1268-search-suggestions-system) |
 | [1325-path-with-maximum-probability](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1761,6 +1765,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
@@ -1878,6 +1883,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0386-lexicographical-numbers) |
+| [1268-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1268-search-suggestions-system) |
 | [1397-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1397-search-suggestions-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
