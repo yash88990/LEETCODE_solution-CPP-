@@ -523,6 +523,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0410-split-array-largest-sum) |
@@ -789,6 +790,7 @@
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0539-minimum-time-difference) |
@@ -1197,6 +1199,7 @@
 | [0242-valid-anagram](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
@@ -1719,6 +1722,7 @@
 | [0225-implement-stack-using-queues](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0933-number-of-recent-calls) |
@@ -2075,4 +2079,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1143-longest-common-subsequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
