@@ -1,46 +1,39 @@
-#include <vector>
-#include <unordered_map>
-#include <cstdlib>
-
 class RandomizedSet {
-private:
-    std::vector<int> nums;
-    std::unordered_map<int, int> valToIndex;
-
 public:
+    unordered_map<int,int> ans;
+    vector<int>nums;
     RandomizedSet() {
+        
     }
     
     bool insert(int val) {
-        if (valToIndex.find(val) != valToIndex.end()) {
-            return false;
+        if(ans.find(val) != ans.end())return false;
+        else{
+            nums.push_back(val);
+            ans[val] = nums.size()-1;
+            return true;
         }
-        nums.push_back(val);
-        valToIndex[val] = nums.size() - 1;
-        return true;
     }
     
     bool remove(int val) {
-        if (valToIndex.find(val) == valToIndex.end()) {
+        if(ans.find(val) == ans.end()){
             return false;
         }
-        int lastElement = nums.back();
-        int idx = valToIndex[val];
+        int last = nums.back();
+        int index = ans[val];
 
-        // Move the last element to the position of the element to be removed
-        nums[idx] = lastElement;
-        valToIndex[lastElement] = idx;
+        nums[index] = last;
+        ans[last] = index;
 
-        // Remove the last element
         nums.pop_back();
-        valToIndex.erase(val);
-
+        ans.erase(val);
         return true;
+
     }
     
     int getRandom() {
-        int randomIndex = rand() % nums.size();
-        return nums[randomIndex];
+        int randindex = rand() % nums.size();
+        return nums[randindex];
     }
 };
 
