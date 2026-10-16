@@ -705,6 +705,7 @@
 | [2868-continuous-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2868-continuous-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1256,6 +1257,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1902,6 +1904,7 @@
 | [0729-my-calendar-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
@@ -1982,6 +1985,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Geometry
 |  |
 | ------- |
