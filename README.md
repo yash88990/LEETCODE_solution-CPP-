@@ -480,6 +480,7 @@
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0059-spiral-matrix-ii) |
@@ -1072,6 +1073,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
@@ -1533,6 +1535,7 @@
 | [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0072-edit-distance) |
