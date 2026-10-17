@@ -474,6 +474,7 @@
 | [0037-sudoku-solver](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0048-rotate-image) |
@@ -1033,6 +1034,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1537,6 +1539,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0055-jump-game) |
@@ -1655,6 +1658,7 @@
 | [0027-remove-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -1932,6 +1936,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0937-online-stock-span) |
