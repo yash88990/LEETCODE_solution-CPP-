@@ -610,6 +610,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1539-kth-missing-positive-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -815,6 +816,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1500-count-largest-group) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1927-sum-game) |
@@ -1339,6 +1341,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1391,6 +1394,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
@@ -1459,6 +1463,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0954-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
@@ -1592,6 +1597,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1807,6 +1813,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1976,6 +1983,7 @@
 | [1013-fibonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1236-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1994,6 +2002,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
@@ -2032,6 +2041,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -2104,4 +2114,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
