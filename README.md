@@ -487,6 +487,7 @@
 | [0057-insert-interval](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0075-sort-colors) |
@@ -883,6 +884,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0735-asteroid-collision) |
@@ -937,6 +939,7 @@
 | [0038-count-and-say](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0151-reverse-words-in-a-string) |
