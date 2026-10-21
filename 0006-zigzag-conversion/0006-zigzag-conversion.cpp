@@ -1,26 +1,22 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || s.length() <= numRows) return s;
-
-        vector<string> rows(numRows);
-        int row = 0;
-        int step = 1;
-
-        for (char c : s) {
-            rows[row].push_back(c);
-            if (row == 0)
-                step = 1;
-            else if (row == numRows - 1)
-                step = -1;
-            row += step;
+        int n = s.size() , r = numRows;
+        if(r == 1 || r >= n)return s;
+        int currrow = 0 ;
+        bool goingdown = false;
+        vector<string> rows(r);
+        for(char c : s){
+            rows[currrow] += c;
+            if(currrow == 0 || currrow == r-1){
+                goingdown = !goingdown;
+            }
+            currrow += goingdown ? 1 : -1;
         }
+        string ans;
+        for(auto c : rows)ans += c;
+        return ans;
 
-        string result;
-        for (const string& str : rows) {
-            result += str;
-        }
-
-        return result;
+        
     }
 };
