@@ -3,15 +3,13 @@ public:
     string reverseWords(string s) {
         stringstream ss(s);
         string word;
-        vector<string>newwords;
-        while(ss>>word)newwords.push_back(word);
-        reverse(newwords.begin() , newwords.end());
-        string ans ="";
-        for(int i = 0 ; i < newwords.size() ; i++){
-            ans += newwords[i];
-            if(i != newwords.size() - 1){
-                ans += " ";
-            }
+        vector<string>words;
+        while(ss>>word)words.push_back(word);
+        reverse(words.begin() , words.end());
+        string ans="";
+        for(int i = 0 ; i < words.size() ; i++){
+            ans += words[i];
+            if(i < words.size() - 1)ans += ' ';
         }
         return ans;
     }
