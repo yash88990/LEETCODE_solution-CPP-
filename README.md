@@ -748,6 +748,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Linked List
 |  |
 | ------- |
