@@ -743,6 +743,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3643-zero-array-transformation-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3647-zero-array-transformation-iii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1896,6 +1897,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
