@@ -829,6 +829,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2649-count-total-number-of-colored-cells) |
@@ -1024,6 +1025,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2390-removing-stars-from-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2409-count-days-spent-together) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
