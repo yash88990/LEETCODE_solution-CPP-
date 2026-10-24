@@ -526,6 +526,7 @@
 | [0274-h-index](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
@@ -889,6 +890,7 @@
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0874-walking-robot-simulation) |
@@ -1425,6 +1427,7 @@
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0787-sliding-puzzle) |
