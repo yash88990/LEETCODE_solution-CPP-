@@ -961,6 +961,7 @@
 | [0227-basic-calculator-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1239,6 +1240,7 @@
 | [0229-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0383-ransom-note) |
