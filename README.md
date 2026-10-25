@@ -349,6 +349,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
@@ -401,6 +402,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1254-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -584,6 +586,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1196-filling-bookcase-shelves) |
 | [1207-unique-number-of-occurrences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1436,6 +1439,7 @@
 | [0994-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0994-rotting-oranges) |
 | [0999-regions-cut-by-slashes](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1396-count-servers-that-communicate) |
@@ -2066,6 +2070,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-count-the-number-of-complete-components) |
