@@ -1,19 +1,11 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if(s.size() != t.size()) return false;
-        unordered_map<char , char> mapS  , mapT;
+        vector<int>sindex(256,0) , tindex(256, 0);
         for(int i = 0 ; i < s.size() ; i++){
-            if(mapS.find(s[i]) != mapS.end()){
-                if(mapS[s[i]] != t[i]) return false;
-            }else{
-                mapS[s[i]] = t[i];
-            }
-            if(mapT.find(t[i]) != mapT.end()){
-                if(mapT[t[i]] != s[i]) return false;
-            }else{
-                mapT[t[i]] = s[i];
-            }
+            if(sindex[s[i]] != tindex[t[i]])return false;
+            sindex[s[i]] = i+1;
+            tindex[t[i]] = i+1;
         }
         return true;
     }
