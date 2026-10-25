@@ -2080,6 +2080,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
