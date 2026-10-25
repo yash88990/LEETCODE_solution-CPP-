@@ -964,6 +964,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0394-decode-string) |
@@ -1240,6 +1241,7 @@
 | [0268-missing-number](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0560-subarray-sum-equals-k) |
@@ -1548,6 +1550,7 @@
 | [0169-majority-element](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/0948-sort-an-array) |
