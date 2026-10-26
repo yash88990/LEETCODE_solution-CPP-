@@ -368,6 +368,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2793-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
@@ -424,6 +425,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2793-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
@@ -744,6 +746,7 @@
 | [3483-alternating-groups-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3639-zero-array-transformation-i) |
@@ -1477,6 +1480,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
@@ -2086,6 +2090,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
