@@ -757,6 +757,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Linked List
 |  |
@@ -1483,6 +1484,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1656,6 +1658,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1923,6 +1926,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yash88990/LEETCODE_solution-CPP-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
